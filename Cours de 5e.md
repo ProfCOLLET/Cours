@@ -349,8 +349,13 @@ Lors de **l’inspiration**, le diaphragme et les muscles entre les côtes vont 
 
 ---
 
-{{browser}}
-Comme nous avons vu précédemment, l’air va toujours des hautes aux basses pressions, l’air va donc s’engouffrer dans les poumons pour « combler » le vide laissé. <br> Lorsque nous nous relâchons, les muscles se relâchent et le volume de la cage thoracique redevient comme avant, le volume **diminue**, donc la **pression augmente **et devient supérieure à celle de l’atmosphère. <br>L’air sort donc de manière **passive** des poumons lors de l’expiration. 
+Comme nous avons vu précédemment, l’air va toujours des hautes aux basses pressions, l’air va donc s’engouffrer dans les poumons pour « combler » le vide laissé. 
+
+---
+
+Lorsque nous nous relâchons, les muscles se relâchent et le volume de la cage thoracique redevient comme avant, le volume **diminue**, donc la **pression augmente** et devient supérieure à celle de l’atmosphère. 
+
+L’air sort donc de manière **passive** des poumons lors de l’expiration. 
 
 ---
 ## Observation microscopique
@@ -384,10 +389,12 @@ Attention au matériel
   ![bg contain](Ressources/Photos/clope.png)
   
 ---
- ![](https://www.youtube.com/watch?v=HD__r66sFjk&t=79s) 
+
+ [Lien vers vidéo 1](https://www.youtube.com/watch?v=HD__r66sFjk) 
 
 ---
- ![](https://www.youtube.com/watch?v=YS02MCx9f2c) 
+
+ [Lien vers vidéo 2](https://www.youtube.com/watch?v=YS02MCx9f2c) 
 
 ---  
    Des substances **nocives**, plus ou moins abondantes dans l'environnement, peuvent perturber le fonctionnement de l'appareil respiratoire. 

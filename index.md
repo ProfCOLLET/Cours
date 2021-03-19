@@ -107,4 +107,8 @@ Plus d'informations ?
 * [Le microscope](Fiches/le microscope.md)
 * [L'argumentation en SVT](Fiches/l argumentation.md)
 
-[PDF du cours de 3e](Cours de 3e.pdf)
+[Lien vers cours de 3e](Cours de 3e.html)
+
+[Lien vers cours de 4e](Cours de 4e.html)
+
+[Lien vers cours de 5e](Cours de 5e.html)
