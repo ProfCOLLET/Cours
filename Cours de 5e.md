@@ -338,8 +338,13 @@ L’air pénètre dans le corps humain par le **nez ou la bouche**, il est condu
 
 ---
 
+![w:1100](Ressources/Mermaid/trajetair.svg)
 
-Lors de **l’inspiration**, le diaphragme et les muscles entre les côtes vont se contracter. Le volume de la cage thoracique va **augmenter**, mais la quantité d’air reste la même. <br/> Donc la pression de l’air dans les poumons va **diminuer** jusqu’à devenir inférieure à la **pression atmosphérique**. 
+---
+
+Lors de **l’inspiration**, le diaphragme et les muscles entre les côtes vont se contracter. Le volume de la cage thoracique va **augmenter**, mais la quantité d’air reste la même. 
+
+Donc la pression de l’air dans les poumons va **diminuer** jusqu’à devenir inférieure à la **pression atmosphérique**. 
 
 
 ---
@@ -390,13 +395,14 @@ Attention au matériel
   
 ---
 
- [Lien vers vidéo 1](https://www.youtube.com/watch?v=HD__r66sFjk) 
+ <iframe width="800"  src="https://www.youtube.com/embed/HD__r66sFjk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
- [Lien vers vidéo 2](https://www.youtube.com/watch?v=YS02MCx9f2c) 
+<iframe width="800" src="https://www.youtube.com/embed/YS02MCx9f2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---  
+
    Des substances **nocives**, plus ou moins abondantes dans l'environnement, peuvent perturber le fonctionnement de l'appareil respiratoire. 
    
  **Elles favorisent l’apparition de certaines maladies.** 
@@ -419,7 +425,6 @@ Attention au matériel
   
  
  
-
 ---
  
  Le poumon a une **structure alvéolaire**, ou spongieuse. 
@@ -431,9 +436,15 @@ Attention au matériel
 
 # Schéma d'une alvéole pulmonaire
 
+
+---
+
+![bg contain](Ressources/Photos/alveolepulmo.png)
+
 ---
 
 ![bg contain](Ressources/Photos/exo4respi.png)
 
 
-    
+---
+
