@@ -7,7 +7,7 @@ size: 16:9
 # Cours de 5e
 
 Cours en ligne, version Markdown
-(C) - COLLET - Pas de reproduction sans mon accord
+COLLET - Pas de reproduction sans mon accord
 ![bg opacity](Ressources/Photos/You-dont-typically-see-this-part-of-earth.jpg)
 
 
