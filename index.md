@@ -1,7 +1,7 @@
 
 # Bienvenue
 
-Le site est en plein changement, il n'y a donc plus d'accès aux différents cours le temps de la migration. 
+Le site est en plein changement, il n'y a donc plus d'accès à l'intégralité des cours le temps de la migration. 
 
 Les cours tel que projetés en classe sont disponible avec les liens suivants. 
 
@@ -15,7 +15,23 @@ Les cours tel que projetés en classe sont disponible avec les liens suivants.
 
 [Vous trouverez ici les vidéos des réponses aux questions sur la reproduction et la sexualité.](tiktok.md)
 
+## Classe Relais
 
+* [Fabriquer un jeu d'échecs](Autres/CREchecs.md)
+
+## DDVPT
+
+* [L'oral ddvpt](DDVPT/oral ddvpt.md)
+* [Présentation des formations](DDVPT/presentation.md)
+
+## Formations et orientation
+
+* [Fiches formations](Fiches/fiches formation.md)
+* [ASSP](Fiches/FM assp.md)
+* [ATMFC](Fiches/FM atmc.md)
+* [Coiffure](Fiches/fm coiffure.md)
+* [La 2GT](Fiches/la 2GT.md)
+* [La procédure d'orientation en 3e](Fiches/procedure d orientation.md)
 <!--
 # Bienvenue
 
