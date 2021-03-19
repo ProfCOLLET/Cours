@@ -28,7 +28,7 @@ www.profcollet.fr
 
 **Microorganisme :** organisme vivant visible uniquement au microscope, taille inférieure à 100 µm.
 
-**µ :** unité micro, µm = micromètre = 0,000 001 m = $$ 10^{-6} $$m
+**µ :** unité micro, µm = micromètre = 0,000 001 m =  10^-6 m
 
 
 ---
