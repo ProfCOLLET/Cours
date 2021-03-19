@@ -1,14 +1,22 @@
 
-# Pour les 3e : 
+# Bienvenue
+
+Le site est en plein changement, il n'y a donc plus d'accès aux différents cours le temps de la migration. 
+
+Les cours tel que projetés en classe sont disponible avec les liens suivants. 
+
+
+## Pour les 3e : 
 
 <iframe width="100%" height="480px" src="https://www.watchisup.fr/compte-a-rebours/embed/rentree-en-seconde-2021-09-01-08-00?backgroundcolor=&color=" frameborder="0" allowfullscreen></iframe>
 
 
-
-# Pour tous
+## Pour tous
 
 [Vous trouverez ici les vidéos des réponses aux questions sur la reproduction et la sexualité.](tiktok.md)
 
+
+<!--
 # Bienvenue
 
 Ce site regroupe des cours, des morceaux de cours, ou des activités, plus ou moins rangées.
@@ -106,6 +114,10 @@ Plus d'informations ?
 
 * [Le microscope](Fiches/le microscope.md)
 * [L'argumentation en SVT](Fiches/l argumentation.md)
+
+-->
+
+## Cours 
 
 [Lien vers cours de 3e](Cours de 3e.html)
 
