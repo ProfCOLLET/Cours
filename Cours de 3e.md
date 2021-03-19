@@ -94,7 +94,7 @@ www.profcollet.fr
 
 ---
 
-[Lien vers vidéo](https://www.youtube.com/watch?v=gYAL1vPOCEQ)
+<iframe src="https://www.youtube.com/embed/gYAL1vPOCEQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 

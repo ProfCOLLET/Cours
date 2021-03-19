@@ -221,6 +221,9 @@ Donnez la liste des modifications qui se produisent chez **l'homme** et chez la 
 - Croissance- Développement de poitrine
 - Acné et boutons (changement de l'équilibre de la peau)
 - Modification de la voix (mue)
+
+---
+
 - Modification de l'équilibre chimique du cerveau ==> **modification du comportement**
 - Modification des os du bassin (hanches qui s'élargissent)
 - Hormones qui changent (Oeustrogène et Progestérone)
@@ -233,6 +236,10 @@ Donnez la liste des modifications qui se produisent chez **l'homme** et chez la 
 - Hormone qui change (Testostérone)
 - Acné et boutons (changement de l'équilibre de la peau)
 - Croissance
+
+---
+
+
 - Développement de la taille du pénis
 - Descente des testicules
 - Modification de l'équilibre chimique du cerveau ==> **modification du comportement**
