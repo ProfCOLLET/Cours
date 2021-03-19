@@ -241,6 +241,7 @@ Donnez la liste des modifications qui se produisent chez **l'homme** et chez la 
 
 
 - Développement de la taille du pénis
+- Prise de masse musculaire
 - Descente des testicules
 - Modification de l'équilibre chimique du cerveau ==> **modification du comportement**
 
