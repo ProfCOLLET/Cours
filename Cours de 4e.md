@@ -266,5 +266,51 @@ Donnez la liste des modifications qui se produisent chez **l'homme** et chez la 
 
 ---
 
-# Leçon 13 : Les hormones c'est quoi ? 
+# Leçon 12 : Les hormones c'est quoi ? 
+
+---
+
+
+![bg contain](Ressources/Photos/hormone1.png)
+
+---
+## Chez l'homme
+
+![bg contain left](Ressources/Photos/hormone2.png)
+
+---
+
+
+
+La **Testostéronne** est produite par les tersticules, elle vont provoqués plusieurs phénomènes : 
+- (+) la production de sperme
+- Elle permet l'érection
+- Elle stimule le developpement musculaire
+- Elle developpe la pilosité
+
+
+---
+
+## Chez la femme
+
+![bg contain left](Ressources/Photos/hormone3.png)
+
+---
+Les femmes produisent 2 types d'hormones : 
+- l'oeustrogène
+- la progestéronne
+
+Elles stimulent le developpement de la pilosité. 
+Elles stimulent le developpement de la poitrine et l'elargissement des hanches. 
+
+Elles participent au cycle de l'utérus en controllant l'épaississement de la muqueuse utérinne. 
+
+
+---
+
+![bg contain](Ressources/Photos/hormone4.png)
+
+--- 
+
+
 
