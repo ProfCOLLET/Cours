@@ -60,16 +60,16 @@ Faire un schéma d'un sexe feminin et d'un sexe masculin en vue extérieure.
 
 ---
 
-![bg contain](Ressources/Photos/Reproduction/image058.jpg)
+![bg contain](Ressources/Photos/image058.jpg)
 
 ---
 
-![bg contain](Ressources/Photos/Reproduction/appareil%20fem.jpg)
+![bg contain](Ressources/Photos/appareil%20fem.jpg)
 
   
 ---
 
-![bg contain](Ressources/Photos/Reproduction/appareil-genital-masculin.gif)
+![bg contain](Ressources/Photos/appareil-genital-masculin.gif)
 
  
 ---
@@ -183,7 +183,8 @@ Puis le cycle recommence.
 
 ---
 
-![bg contain](Ressources/Photos/Capture%20d%E2%80%99e%CC%81cran%202021-02-19%20a%CC%80%2015.40.43.png)
+![bg contain](Ressources/Mermaid/proiepredateurcycle.svg)
+
 
 
 ---
@@ -244,7 +245,7 @@ Donnez la liste des modifications qui se produisent chez **l'homme** et chez la 
 
 ---
 
-![bg contain](https://i.ytimg.com/vi/SrdqEffE1Q0/maxresdefault.jpg)
+![w:1100](https://i.ytimg.com/vi/SrdqEffE1Q0/maxresdefault.jpg)
 
 ---
 
@@ -258,3 +259,4 @@ Donnez la liste des modifications qui se produisent chez **l'homme** et chez la 
 ---
 
 # Leçon 13 : Les hormones c'est quoi ? 
+

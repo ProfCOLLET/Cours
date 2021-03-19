@@ -63,6 +63,30 @@ www.profcollet.fr
 
 ---
 
+# Leçon 2 : à venir
+
+---
+# Leçon 3 : à venir
+
+---
+# Leçon 4 : à venir
+
+---
+# Leçon 5 : à venir
+
+---
+# Leçon 6 : à venir
+
+---
+
+# Leçon 7 : à venir
+
+---
+# Leçon 8 : à venir
+
+
+---
+
 # L9 : La mitose
 
 ---
@@ -70,9 +94,7 @@ www.profcollet.fr
 
 ---
 
-
-<video src="/Ressources/Vidéos/mitose.mp4">
-</video>
+[Lien vers vidéo](https://www.youtube.com/watch?v=gYAL1vPOCEQ)
 
 ---
 
