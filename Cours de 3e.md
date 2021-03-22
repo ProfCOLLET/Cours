@@ -11,9 +11,6 @@ COLLET - Pas de reproduction sans mon accord
 ![bg opacity](Ressources/Photos/You-dont-typically-see-this-part-of-earth.jpg)
 
 
----
-
-Ce cours est en évolution permanante, selon ce que je trouve, ce que je rajoute, des noueautés Markdown que je découvre... 
 
 ---
 
