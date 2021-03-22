@@ -15,7 +15,9 @@ COLLET - Pas de reproduction sans mon accord
 ---
 
 www.profcollet.fr
- 
+
+
+
 ---
 
 # Leçon 1 : Vous avez peut des petites bêtes ? 
@@ -125,9 +127,43 @@ Un allèle **dominant** est un allèle qui va s’exprimer **prioritairement** s
 
 ## Tableau de croisement
 
+---
+
+
 
 ---
 
+|      | A + | A - | O +  | O -  |
+|------|-----|-----|------|------|
+| B +  |     |     |      |      |
+| B -  |     |     |      |      |
+| O +  |     |     |      |      |
+| O -  |     |     |      |      |
+
+
+---
+
+|      | A+| A- | O+  | O-  |
+|:------:|:-----:|:-----:|:------:|:------:|
+| **B+**  |  `AB++` **[AB+]**  |  `AB+-` **[AB+]**  |   `BO++`  **[B+]** |  `BO+-`  **[B+]**  |
+| **B-** |   `AB+-` **[AB+]** |  `AB--`  **[AB-]**|  `OB+-` **[B+]** |  `OB--` **[B-]** |
+| **O+**  |   `AO++` **[A+]**|  `AO+-`  **[A+]**|  `OO++`  **[O+]** |   `OO+-` **[O+]**|
+| **O-**  |   `AO+-` **[A+]**|  `AO--` **[A-]**|  `OO-+` **[O+]** |   `OO--` **[O-]** |
+
+
+---
+
+Donc : 
+| | |
+--- | ---
+$[AB+]=\dfrac{3}{16}$ | $[A-]=\dfrac{1}{16}$
+$[AB-]=\dfrac{1}{16}$ | $[B-]=\dfrac{1}{16}$
+$[A+]=\dfrac{3}{16}$ | $[O+]=\dfrac{3}{16}$
+$[B+]=\dfrac{3}{16}$ | $[O-]=\dfrac{1}{16}$
+
+
+
+---
 # Leçon 11 : Les mutations 
 
 ---
@@ -404,7 +440,7 @@ L'ère tertiaire se divise en trois périodes géologiques : **Paléogène, Néo
 
 ---
 
-# Leçon 14 : L'organisme face au milieu extérieu
+# Leçon 14 : L'organisme face au milieu extérieur
 
 ---
 
