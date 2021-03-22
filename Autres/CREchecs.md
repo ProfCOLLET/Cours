@@ -110,4 +110,9 @@ Si les règles du jeu d'échecs sont trop complexes pour les élèves, on peut p
 Si le niveau des élèves le permet et si le temps le permet également, il est possible de concevoir les pièces sour Fusion360 ou SketchUp. 
 
 
+### Quelques photos
 
+![](/Cours/Ressources/Photos/cr1.jpg)
+![](/Cours/Ressources/Photos/cr2.jpg)
+![](/Cours/Ressources/Photos/cr3.jpg)
+![](/Cours/Ressources/Photos/cr4.jpg)
