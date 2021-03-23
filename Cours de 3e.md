@@ -17,7 +17,6 @@ COLLET - Pas de reproduction sans mon accord
 www.profcollet.fr
 
 
-
 ---
 
 # Leçon 1 : Vous avez peut des petites bêtes ? 
@@ -86,7 +85,7 @@ www.profcollet.fr
 
 ---
 
-# L9 : La mitose
+# Leçon 9 : La mitose
 
 ---
 ## Activité pages 204 - 205
