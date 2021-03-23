@@ -104,8 +104,8 @@ Les ateliers sont dans des domaines variés : couture, mode, électronique, méc
 
 
 
-1)	Faire une lettre de motivation, pourquoi faire l’option, mon projet professionnel… 
-2)	Participer à un entretien
+- Faire une lettre de motivation, pourquoi faire l’option, mon projet professionnel… 
+- Participer à un entretien
 
 Les résultats d’admission se feront à l’issu du conseil de classe du 3e trimestre. 
 
