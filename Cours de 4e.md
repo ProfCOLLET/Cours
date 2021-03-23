@@ -218,7 +218,8 @@ Donnez la liste des modifications qui se produisent chez **l'homme** et chez la 
 
 - Apparition des règles et du cycle menstruel
 - Développement de la pilosité
-- Croissance- Développement de poitrine
+- Croissance
+- Développement de poitrine
 - Acné et boutons (changement de l'équilibre de la peau)
 - Modification de la voix (mue)
 
