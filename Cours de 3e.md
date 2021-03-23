@@ -16,7 +16,6 @@ COLLET - Pas de reproduction sans mon accord
 
 www.profcollet.fr
 
-
 ---
 
 # Leçon 1 : Vous avez peut des petites bêtes ? 
