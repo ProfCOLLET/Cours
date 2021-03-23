@@ -126,3 +126,7 @@ Le Professeur principal
 ---
 
 Pour en savoir plus sur les thèmes proposés, [cliquez ici pour acceder à la présentation des différentes formations](https://view.genial.ly/5f8eb007ed31710d0d03832e). 
+
+<br>
+
+Le DDVPT vous interesse ? [Pré-inscrivez vous ici (pas d'engagement)](https://cloud.profcollet.fr/index.php/apps/forms/5RcQZsz5XrHbLSnc)
