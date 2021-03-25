@@ -280,6 +280,14 @@ Travail de recherche
 2. Les effets des oeustrogènes sur le corps.
 3. Les effets de la progestéronne sur le corps. 
 
+---
+
+1 ou 2 page. 
+Avec 1 ou 2 images maxi. 
+
+Attention au copier/coller. 
+Avec Libre Office Writer (Traitement de texte)
+
 
 ---
 
