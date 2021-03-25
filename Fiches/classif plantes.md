@@ -29,7 +29,7 @@ Dans une seconde partie de son développement, et selon les plantes, une croissa
 
 ![](http://www.ac-grenoble.fr/ecoles/hg/local/cache-vignettes/L500xH411/Constitution_d_une_feuille-4f9b7.jpg)
 
-Il existe des formes très différentes pour les feuilles, chaque feuille est une caractéristique de la plante. (Voir [[https://fr.wikipedia.org/wiki/Forme_foliaire|Article Wikipédia]])
+Il existe des formes très différentes pour les feuilles, chaque feuille est une caractéristique de la plante. (Voir [Article Wikipédia](https://fr.wikipedia.org/wiki/Forme_foliaire))
 
 ## Anatomie de la racine
 
@@ -42,7 +42,7 @@ La racine est le plus souvent un organe souterrain ayant deux ou trois rôles :
 Les racines sont souvent le siège de symbioses avec les bactéries du sol.
 Certaines racines de plantes sont comestibles ou à usage médicinal, d'autres sont hautement toxiques.
 
-![](https://www.biologievegetale.be/img/racines.gif)
+![](https://images.theconversation.com/files/238212/original/file-20180926-48656-p0lpi3.png?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop)
 
 ## Anatomie de la tige
 La tige est l'axe généralement aérien qui prolonge la racine et porte les bourgeons et les feuilles.

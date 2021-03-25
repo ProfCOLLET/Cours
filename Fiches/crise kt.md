@@ -17,4 +17,5 @@ La collision aurait produit une importante onde de choc, des incendies et l'émi
 Or, sans énergie solaire, la **photosynthèse** ne peut fonctionner, ce qui signifie que les végétaux ne peuvent survivre, comme les consommateurs qui s'en nourrissent.
 
 La deuxième théorie attribue la disparition des espèces à un événement volcanique intense qui a donné naissance aux trapps du Deccan en Inde. D'importantes quantités de particules et de gaz auraient été rejetées durant des milliers d'années dans l'atmosphère, au point là aussi de modifier le climat trop rapidement pour permettre à la plupart des espèces de s'adapter.
+
 ![](http://www.alex-bernardini.fr/evolution/images/End-of-the-Dinosaurs.jpg)

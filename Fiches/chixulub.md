@@ -10,5 +10,5 @@ Certains scientifiques considèrent que sa chute marque la fin de l'ère seconda
 
 Le diamètre du cratère, **d’environ 180 kilomètres**, laisse imaginer une puissance d'explosion similaire à « plusieurs milliards de fois celle de la bombe d’Hiroshima ».
 
-![](http://www.cite-sciences.fr/fileadmin/_processed_/csm_chicxulub_9e2cea10c1.jpg)
+![](https://www.cite-sciences.fr/fileadmin/_processed_/csm_chicxulub_9e2cea10c1.jpg)
 

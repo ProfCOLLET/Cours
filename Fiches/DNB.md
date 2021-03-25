@@ -4,7 +4,7 @@
 
 ## Sujet
 
-[Cliquez ici pour télécharger le sujet en pdf.](../Img/DNB/Sujet.pdf)
+[Cliquez ici pour télécharger le sujet en pdf.](DNB/Sujet.pdf)
 
 
 
@@ -50,19 +50,19 @@ Léa a 14 ans. Elle souffre de maux de gorge, a du mal à avaler et a de la fiè
 
 ### Question 2 (6 points) : à l’aide du document 1, déterminer l’origine de l’angine de Léa en justifiant.
 
-![](../Img/DNB/1a.png)
+![](DNB/1a.png)
 
-![](../Img/DNB/1b.png)
+![](DNB/1b.png)
 
 > Ici les documents 1a et 1b nous renseigne seulement sur l'origine de ce test, en effet, le medecon a besoin de savoir s'il s'agit d'une angine **virale** ou **bactérienne**. 
 >
 > La procédure de test est détaillé dans le document 1.
 
-![](../Img/DNB/1.png)
+![](DNB/1.png)
 
 Léa est malade, elle a une angine, son medecin cherche à savoir s'il s'agit d'une **angine bactérienne** ou **virale**. Pour cela il réalise un test détaillé dans le document 1. 
 
-![](../Img/DNB/1c.png)
+![](DNB/1c.png)
 
 Ce test se présente sous forme de bandelette, si celle ci présente **2 bandes**, le test est **positif**, si il n'y a qu'**une bande** le test est **négatif**. 
 
@@ -70,7 +70,7 @@ Un test **positif** signifie qu'il s'agit une angine **bactérienne**.
 
 Sur le résultat du test de Léa, il n'y a qu'une seule bande, donc son test est **négatif**. En conclusion, Léa est atteinte d'une **angine virale.**
 
-![](../Img/DNB/1d.png)
+![](DNB/1d.png)
 
 
 
@@ -80,7 +80,7 @@ Sur le résultat du test de Léa, il n'y a qu'une seule bande, donc son test est
 
 > Le medecin ne veut pas donner d'antibiotique à Léa. 
 
-![](../Img/DNB/2.png)
+![](DNB/2.png)
 
 > L'unité arbitraire (ua) est une unité donné à titre indicatif, ici on peut dire qu'entre 10 ua et 100 ua, il y a 10 fois plus de virus. 
 
@@ -96,7 +96,7 @@ C'est pour cela que le medecin ne prescrit pas d'antibiotiques à Léa, ceux-ci 
 
 
 
-![](../Img/DNB/3.png)
+![](DNB/3.png)
 
 
 

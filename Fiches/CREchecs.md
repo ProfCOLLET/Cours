@@ -1,4 +1,4 @@
-# Projet Classe Relais - Fabrication d'un jeu d'échec
+# Projet - Fabrication d'un jeu d'échec
 
 Afin de mener à bien ce projet, voici ce qu'il vous faut, cetaines choses sont déjà à ma disposition. 
 
@@ -35,7 +35,6 @@ Séance informatique, jeu d'échec en ligne pour apprendre à jouer et s'intére
 
 ### Séance 2
 
- 
 
 45 min par atelier et échange
 
@@ -112,7 +111,7 @@ Si le niveau des élèves le permet et si le temps le permet également, il est 
 
 ### Quelques photos
 
-![](/Cours/Ressources/Photos/cr1.jpg)
-![](/Cours/Ressources/Photos/cr2.jpg)
-![](/Cours/Ressources/Photos/cr3.jpg)
-![](/Cours/Ressources/Photos/cr4.jpg)
+![](../Ressources/Photos/cr1.jpg)
+![](../Ressources/Photos/cr2.jpg)
+![](../Ressources/Photos/cr3.jpg)
+![](../Ressources/Photos/cr4.jpg)

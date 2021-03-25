@@ -25,7 +25,7 @@ Comme les autres cellules eucaryotes, les cellules végétales possèdent typiqu
 ![](https://s1.qwant.com/thumbr/0x380/a/d/53bc4a246b47e9fbe74c1a2f9dacf96ebd477c63bb72e2932cbe5c70a30332/cellule-vegetale.jpg?u=http%3A%2F%2Ftpe-physique-cuisine.pagesperso-orange.fr%2Fimages-utilisees%2Fcellule-vegetale.jpg&q=0&b=1&p=0&a=1)
 
 
-Turgescence : La turgescence est l'état d'une cellule vivante dilatée par l'eau qui y est entrée, et qui s'accumule dans ses vacuoles ou ses vésicules.
+(1)Turgescence : La turgescence est l'état d'une cellule vivante dilatée par l'eau qui y est entrée, et qui s'accumule dans ses vacuoles ou ses vésicules.
 
 
 

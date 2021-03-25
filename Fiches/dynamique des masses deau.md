@@ -34,7 +34,7 @@ Le soleil va être la cause indirecte des courants marins. Ces courants sont tr�
 ![](https://s1.qwant.com/thumbr/700x0/b/5/a5f4341063229899456c438ea40c735cf74905d460134139bdb370e4a62f18/1200px-Ocean_currents_1943.jpg?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F7b%2FOcean_currents_1943.jpg%2F1200px-Ocean_currents_1943.jpg&q=0&b=1&p=0&a=1) 
 
 
-Donc le Soleil est indirectement responsable des courants marins, c'est lui qui en est à l'origine. 
+>Donc le Soleil est indirectement responsable des courants marins, c'est lui qui en est à l'origine. 
 
 
 

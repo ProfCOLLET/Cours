@@ -4,8 +4,8 @@
 
 On considère un couple : 
 
-Père, de **phénotype** groupe sanguin B+
-Mère de **phénotype** groupe sanguin A-
+Père, de **phénotype** groupe sanguin B+ (génotype BO +-)
+Mère de **phénotype** groupe sanguin A- (génotype AO --)
 
 Leurs **gamètes** peuvent être : 
 
@@ -26,12 +26,12 @@ Leurs **gamètes** peuvent être :
 
 Soit : 
 
-- **AB+ ** : 12,5 %​
+- **AB+** : 12,5 %​
 - **AB-** : 12,5 %
 - **B+** : 12,5 %
 - **B-** : 12,5 %
-- **A+ ** : 12,5 %
-- **A- ** : 12,5 %
+- **A+** : 12,5 %
+- **A-** : 12,5 %
 - **O+** :12,5 %
 - **O-** : 12,5 %
 
