@@ -271,6 +271,26 @@ Donnez la liste des modifications qui se produisent chez **l'homme** et chez la 
 
 ---
 
+Travail de recherche
+
+
+3 thèmes : 
+
+1. Les effets de la testostéronne sur le corps.
+2. Les effets des oeustrogènes sur le corps.
+3. Les effets de la progestéronne sur le corps. 
+
+---
+
+
+
+---
+
+Pour me rendre votre travail : 
+
+
+
+---
 
 ![bg contain](Ressources/Photos/hormone1.png)
 
@@ -280,6 +300,7 @@ Donnez la liste des modifications qui se produisent chez **l'homme** et chez la 
 ![bg contain left](Ressources/Photos/hormone2.png)
 
 ---
+
 
 
 
