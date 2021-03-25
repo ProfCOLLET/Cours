@@ -280,14 +280,14 @@ Travail de recherche
 2. Les effets des oeustrogènes sur le corps.
 3. Les effets de la progestéronne sur le corps. 
 
----
-
-
 
 ---
 
 Pour me rendre votre travail : 
 
+1. Aller sur www.profcollet.fr
+2. Cliquez sur le lien "SVT - Hormones 4e"
+3. Suivre les instructions
 
 
 ---
