@@ -40,6 +40,6 @@ Il nous donne la vitesse des vents en km/h ou m/s.
 
 Il nous donne la luminosité en lux (1 lumen /m2). Un lumen correspond à la luminosité d'une bougie. 
 
-![](https://www.mesure-pro.com/WebRoot/Orange/Shops/4dcd203c-3138-11e1-8f2a-000d609a287c/4F0F/140F/171E/CDFB/DE68/0A0C/05EA/89DB/SO_800.jpg)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOQRU7QI41icx_1lMElUXSX9AziK6cxeV0nw&usqp=CAU)
 
 

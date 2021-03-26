@@ -12,7 +12,7 @@ Dans un premier temps, nous verrons que LUCA est notre ancêtre à tous, puis no
 
 ## Comment prouver que LUCA est notre ancêtre à tous ? 
 
-![](../Img/1.png)
+![](../Ressources/Photos/1.png)
 
 De nos jours, les progrès de la biologie moléculaire ont permis de montrer que les êtres vivants actuels partagent un certain nombre de caractères.
 
@@ -38,11 +38,11 @@ LUCA a certainement vécu avant l'oxygénation de l'atmosphère sous l'effet de 
 
 LUCA possède forcément certains caractères qu'il a légué à sa descendance :
 
-\-    La cellule
+-    La cellule
 
-\-    l'ADN
+-    l'ADN
 
-\-    La machinerie cellulaire
+-    La machinerie cellulaire
 
  
 

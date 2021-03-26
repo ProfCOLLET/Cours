@@ -19,7 +19,7 @@ La lignée humaine regroupe le genre *Homo* et tous les genres fossiles ayant un
 
 Le genre *Australopithèque* apparait en Afrique il y a environ 4,2 millions d'années. Huit espèces d'australopithèques ont déjà été décrites à ce jour. Ce genre semble céder ensuite la place aux *Paranthropes*, dont trois espèces sont connues, mais qui s'éteignent en Afrique avant 1 million d'années.
 
-![](../Img/2.png)
+![](./../Ressources/Photos/2.png)
 
 
 
@@ -27,7 +27,7 @@ Voici une présentation de 5 représentants :
 
 ### *Homo neanderthalensis*
 
-![](../Img/3.jpg)
+![](./../Ressources/Photos/3.jpg)
 
 
 
@@ -49,7 +49,7 @@ Contemporain de l'*Homo sapiens*, Neanderthal n'était ni son ancêtre, ni son d
 
 ### *Homo ergaster*
 
-![](../Img/4.jpg)
+![](./../Ressources/Photos/4.jpg)
 
 
 
@@ -59,7 +59,7 @@ Sa capacité crânienne de l'ordre de 850 cm3 est certes plus petite que celle d
 
 ### *Homo erectus*
 
-<img src="../Img/5.jpg" style="zoom:50%;" />
+<img src="./../Ressources/Photos/5.jpg" style="zoom:50%;" />
 
 
 
@@ -83,7 +83,7 @@ Par ailleurs *Homo erectus* est le premier hominidé à migrer hors d'Afrique. C
 
 
 
-![](../Img/6.jpg)
+![](./../Ressources/Photos/6.jpg)
 
 
 
@@ -98,7 +98,7 @@ Homo habilis devait vivre entre 30 et 40 ans.
 
 ### *Homo sapiens*
 
-<figure><img src="../Img/7.jpg" style="zoom:50%;" /> <figcaption>Rosalind Franklin </figcaption></figure>
+<figure><img src="./../Ressources/Photos/7.jpg" style="zoom:50%;" /> <figcaption>Rosalind Franklin </figcaption></figure>
 
 
 

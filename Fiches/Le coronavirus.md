@@ -48,7 +48,7 @@ La multiplication d'un virus consiste en l'introduction du **génome** viral ( A
 Le temps du cycle viral peut varier d’un virus à l’autre.
 
 
-## Le coronas virus, d'où vient-il ? 
+## Le coronavirus, d'où vient-il ? 
 
 Une nouvelle forme de syndrome respiratoire est apparue à Wuhan (province du Hubei, Chine) début décembre 2019. La pneumonie de Wuhan est due à un nouveau coronavirus. En janvier 2020, le virus a été nommé **2019-nCoV**.
 

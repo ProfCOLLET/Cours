@@ -47,6 +47,6 @@ Elle décrit l'évolution de la vie sur Terre sur un modèle accordant le darwin
 
 Gould et Eldredge ont présenté leur théorie comme une alternative à la théorie synthétique de l'évolution. Selon cette théorie, l'évolution morphologique des espèces se produirait par modifications très lentes et continues d'une même population au cours du temps par le jeu des mutations et de la sélection naturelle.
 
-===
+
 
 _Source : Wikipédia 01-2019_

@@ -1,7 +1,6 @@
 # Le système solaire
 
 
-
 Images : [Système solaire.pdf](Systemesolaire.pdf) 
 
 # Le Soleil

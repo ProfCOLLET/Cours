@@ -4,7 +4,7 @@
 
 
 
-![](../Img/volcan.png)
+![](../Ressources/Photos/volcan.png)
 
 
 
@@ -65,11 +65,6 @@ Certains volcans vont produire des roches différenciées, comme de la **pierre 
 
 #### Obscidienne
 ![](https://www.aromasud.fr/boutique/images_produits/obs_noire_sachet-z.jpg)
-
-
-
-
-
 
 
 ## 2 types de volcans

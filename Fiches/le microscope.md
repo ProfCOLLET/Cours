@@ -30,6 +30,6 @@ En utilisant le microscope correctement voici ce qui va se passer :
 
 * pour chaque microscope non respecté, c'est un chaton qui souffre ! 
 
-[plugin:youtube](https://www.youtube.com/watch?v=l5ng-SUePAc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l5ng-SUePAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

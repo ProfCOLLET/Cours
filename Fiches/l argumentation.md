@@ -59,7 +59,7 @@ Si il y a 4 ou 5 idées, trouvez 2 grands thèmes
      * ou simplement « bla bla bla (Document X) »
 * Si on amène une connaissance grâce à un document
 
->      *« Le document X nous donne l’information que … argument…  ,je peux DONC en conclure que … argument/connaissance »
+*« Le document X nous donne l’information que … argument…  ,je peux DONC en conclure que … argument/connaissance »*
 
 Schéma (dessin, tableau, graphique ça marche aussi !)
 
@@ -70,7 +70,7 @@ Schéma (dessin, tableau, graphique ça marche aussi !)
 * un dessin possède une échelle…
 	
 
-!!! Un schéma vaut mieux qu'un grand discours. 
+>Un schéma vaut mieux qu'un grand discours. 
 
 
 ! **Attention** 
@@ -106,7 +106,7 @@ Ce qu’il faut :
 ![](https://media.cultura.com/media/catalog/product/cache/1/image/500x500/0dc2d03fe217f8c83829496872af24a0/s/t/stylo-bille-bic-bleu-007033012962_0.jpg)
 
 
-!!! Attention aux stylos à plumes, il faut prévoir des cartouches IDENTIQUES pour éviter les changements de couleurs non voulues. 
+>Attention aux stylos à plumes, il faut prévoir des cartouches IDENTIQUES pour éviter les changements de couleurs non voulues. 
 
 
 
