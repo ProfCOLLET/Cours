@@ -56,7 +56,7 @@ www.profcollet.fr
 |----|----|----|----|
 |  **Lieu de vie**  |  Muqueuse  | Sang   |  Cellules  |
 |  **Symbtômes**  |  Rougeurs, douleurs  |  Paralysie  |  Fièvre, fatigue  |
-|  **Maladie**  |  Mycose  |   Tétanos |  Edola  |
+|  **Maladie**  |  Mycose  |   Tétanos |  Ebola  |
 
 ---
 
@@ -375,7 +375,7 @@ Les plantes cultivées principales (soja, maïs, cotonnier, colza, betterave, co
 
 ---
 
-<iframe width="800" src="https://www.youtube.com/embed/TJtUUTpWWoU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1100" height="800" src="https://www.youtube.com/embed/TJtUUTpWWoU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
