@@ -342,14 +342,16 @@ L’air pénètre dans le corps humain par le **nez ou la bouche**, il est condu
 
 ---
 
+![h:700](Ressources/Photos/app%20respi.png)
+
+--- 
+
 Lors de **l’inspiration**, le diaphragme et les muscles entre les côtes vont se contracter. Le volume de la cage thoracique va **augmenter**, mais la quantité d’air reste la même. 
 
 Donc la pression de l’air dans les poumons va **diminuer** jusqu’à devenir inférieure à la **pression atmosphérique**. 
 
 
----
 
-![h:700](Ressources/Photos/app%20respi.png)
   
 
 ---
