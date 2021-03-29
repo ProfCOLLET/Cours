@@ -1,4 +1,19 @@
-graph LR
-A{Extérieur}--Inspiration-->B(Nez / Bouche) --Inspiration--> C(Trachée) --Inspiration--> D(Bronches) --Inspiration--> E(Bronchioles) --Inspiration--> F((Alvéoles Pulmonaires))
-F --Expiration--> E --Expiration--> D --Expiration--> C--Expiration--> B --Expiration-->A
+graph LR;
+
+    subgraph Expiration 
+
+   AF((Alvéoles Pulmonaires))--> AE(Bronchioles)--> AD(Bronches) --> AC(Trachée) --> AB(Nez / Bouche) -->  AA{Extérieur} 
+
+    end
+
+    subgraph Inspiration
+
+    A{Extérieur}--> B(Nez / Bouche) --> C(Trachée) --> D(Bronches) --> E(Bronchioles) --> F((Alvéoles Pulmonaires))
+
+    end
+
+    
+
+   
+
 
