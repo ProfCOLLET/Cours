@@ -277,7 +277,7 @@ Travail de recherche
 3 thèmes : 
 
 1. Les effets de la testostérone sur le corps.
-2. Les effets des oeustrogènes sur le corps.
+2. Les effets des oestrogènes sur le corps.
 3. Les effets de la progestérone sur le corps. 
 
 ---
