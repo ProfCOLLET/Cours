@@ -178,7 +178,7 @@ Une mutation va donc modifier le **génotype**
 
 ## Le code génétique
 
-L'ADN est une langage pour la cellule, cet ADN est composé de 4 nucléotides, servant d'"alphabet" à la cellule pour la traduction de l'ADN. 
+L'ADN est un langage pour la cellule, cet ADN est composé de 4 nucléotides, servant d'"alphabet" à la cellule pour la traduction de l'ADN. 
 
 Il y a :
 
@@ -234,6 +234,7 @@ Des mutations peuvent apparaître tout au long de la vie sur l'ADN de n'importe 
 
 ## Les différents type de mutations
 
+---
 
 ### Mutation par substitution
 
@@ -284,7 +285,7 @@ devient
 
 ### Mutation par insersion
 
-Cette mutation se traduit par la suppression d'un ou plusieurs nucléotides. 
+Cette mutation se traduit par l'insersion d'un ou plusieurs nucléotides. 
 
 ---
 
@@ -332,6 +333,8 @@ Il peut s'agir aussi d'une perte ou d'un gain de chromosomes: trisomie, monosomi
 ---
 
 ## Conséquences d'une mutation
+
+---
 
 ### Mutations faux sens
 
