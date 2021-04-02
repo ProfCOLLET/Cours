@@ -312,7 +312,7 @@ Pour me rendre votre travail :
 
 
 
-La **Testostérone** est produite par les tersticules, elle vont provoqués plusieurs phénomènes : 
+La **Testostérone** est produite par les testicules, elle va provoqué plusieurs phénomènes : 
 - (+) la production de sperme
 - Elle permet l'érection
 - Elle stimule le developpement musculaire
