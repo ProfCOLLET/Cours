@@ -312,12 +312,37 @@ Pour me rendre votre travail :
 
 
 
-La **Testostéronne** est produite par les tersticules, elle vont provoqués plusieurs phénomènes : 
+La **Testostérone** est produite par les tersticules, elle vont provoqués plusieurs phénomènes : 
 - (+) la production de sperme
 - Elle permet l'érection
 - Elle stimule le developpement musculaire
 - Elle developpe la pilosité
 
+---
+
+
+* C'est la principale hormone sexuelle mâle.
+
+* Chez l'homme, la testostérone joue un rôle-clé dans la santé et le bien-être, en particulier dans le fonctionnement sexuel.
+
+
+* Contrairement à une croyance populaire, la testostérone n'est pas associée à une augmentation de l'agressivité.
+
+---
+
+* Cependant, elle est associée à la compétition et aux comportements de dominance chez les animaux. Elle augmente durant l'anticipation d'activités sportives et après la victoire. 
+
+* Elle produit aussi une réduction des réactions de peur et de stress. 
+
+* La testostérone participe à la perte de cheveux de l'homme avec l'âge.
+
+* Le taux de testostérone décroit avec l'âge chez l'homme. 
+
+---
+
+### Exemple de l'effetsde la testostérone chez le rat mâle
+
+Chez le rat mâle, le comportement sexuel dépend du niveau de testostérone. La castration réduit l'activité sexuelle. La testostérone augmente celle-ci. 
 
 ---
 
@@ -327,8 +352,8 @@ La **Testostéronne** est produite par les tersticules, elle vont provoqués plu
 
 ---
 Les femmes produisent 2 types d'hormones : 
-- l'oeustrogène
-- la progestéronne
+- l'oestrogène
+- la progestérone
 
 Elles stimulent le developpement de la pilosité. 
 Elles stimulent le developpement de la poitrine et l'elargissement des hanches. 
@@ -338,9 +363,56 @@ Elles participent au cycle de l'utérus en controllant l'épaississement de la m
 
 ---
 
-![bg contain](Ressources/Photos/hormone4.png)
+### L'œstrogène
+
+L'œstrogène est une hormone sexuelle femelle primaire. 
+
+Elle est produite par le développement des follicules des ovaires et par le placenta lors de la grossesse. 
+
+> Il existe 3 sortes d'œstrogènes : l'**œstradiol**, l'**œstriol** et l'**œstrone**. 
+
+---
+
+Les œstrogènes jouent un rôle central dans la reproduction.
+
+Elles favorisent le développement des **caractères sexuels secondaires** féminins, comme les seins, et sont également impliquées dans le contrôle du cycle menstruel, ce qui explique pourquoi la plupart des contraceptifs hormonaux comme les pilules contraceptives en contiennent. 
+
+---
+### La progestérone 
+
+La progestérone est une hormone principalement sécrétée par les ovaires et le placenta. 
+Elle est impliquée dans la grossesse et l'embryogenèse(formation de l'embryon) de nombreuses espèces de mammifères, ainsi que dans le cycle menstruel.
+
+
 
 --- 
 
+## Le cycle mentruel
 
+Avant de concevoir un enfant, la femme doit produire des ovocytes et l'homme des spermatozoïdes. La fabrication de ces cellules s'effectue sous le contrôle des hormones durant le cycle menstruel.
+
+Entre la puberté et la ménopause, la femme peut se reproduire grâce au fonctionnement cyclique de ses ovaires.
+
+Le cycle menstruel dure environ 28 jours et comprend les phases suivantes :
+
+---
+
+* **jours 1 à 5 :** ce sont les règles, au cours desquelles une partie de la muqueuse utérine est éliminée 
+
+
+* **jours 6 à 13 :** un follicule d'un des deux ovaires achève sa croissance. Les cellules folliculaires fabriquent des oestrogènes et leur taux augmente dans le sang. La muqueuse  de l'utérus se développe
+
+---
+
+* **jour 14 :** c'est l'ovulation, au cours de laquelle le follicule mûr expulse l'ovocyte. L'ovulation est déclenchée par le pic d'une hormone. La glaire cervicale présente au niveau du col de l'utérus est lâche, afin de laisser passer les spermatozoïdes
+
+>ATTENION : on pense à tort que l'ovulation a lieu au 14e jour, en réalite elle a lieu 14 jours avant le debut des règles suivante... ce qui tombe le 14e jour pour un cycle de 28 jours, mais toutes les femmes n'ont pas un un cycle de 28  jours. 
+--- 
+
+* **jours 15 à 28 :** le follicule évolue en corps jaune, qui produit des oestrogènes et de la progestérone. La muqueuse utérine prend un aspect de dentelle : elle est prête à accueillir l'embryon. S'il n'y a pas de fécondation, le corps jaune régresse, les taux d'hormones ovariennes chutent, d'où le déclenchement des règles.
+
+
+---
+
+![bg contain](Ressources/Photos/hormone4.png)
 
