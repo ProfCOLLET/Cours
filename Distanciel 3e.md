@@ -21,7 +21,7 @@ Les plantes sont apparus sur Terre il y a environ 1,2 milliard d'année. Les pre
 
 Les plantes se divisent en plusieurs "familles" : 
 
-* les algues rouges et vertes
+* les algues **rouges et vertes**
 * les mousses ou **bryophytes**
 * les fougères ou **ptéridophytes**
 * les conifères/résineux ou **gymnospermes**
