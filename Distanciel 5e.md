@@ -40,3 +40,10 @@ Les **reins** sont des organes qui filtrent le sang en permanence, ils fabriquen
 
 Faire une recherche sur une maladie du rein, expliquer ce qu'est cette maladie. 
 
+---
+
+## Me rendre votre travail
+
+1. Renomer votre fichier avec **votre NOM, prénom et classe**
+2. Le déposer ici : [LIEN POUR DEPOT DE DEVOIR](https://cloud.profcollet.fr/index.php/s/PGnGoHB9LPd9pe2)
+

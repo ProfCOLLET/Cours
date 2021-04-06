@@ -96,11 +96,6 @@ Après la pollinisation, la fleur est fécondée et se transforme en **fruit** c
 
 ![bg fit](https://lululataupe.com/images/decouverte/nature/schema-d-une-fleur.png)
 
---- 
-
-Parties suivantes à faire sur le cahier, ou sur une feuille, correction dans la seconde semaine de distantiel.
-
-Lors de la correction, possibibilté de passer à l'oral (pensez à tester votre micro) pour être évalué. 
 
 ---
 
@@ -118,9 +113,14 @@ Petit travail de recherche :
 
 ---
 
-Les cellules végétales font ce que l'on apelle la**photosynthèse**. 
+Les cellules végétales font ce que l'on apelle la **photosynthèse**. 
 
 1) Qu'est ce que la photosynhtèse ? 
 2) Quelle est son équation ? 
 
 ---
+
+## Me rendre votre travail
+
+1. Renomer votre fichier avec **votre NOM, prénom et classe**
+2. Le déposer ici : [LIEN POUR DEPOT DE DEVOIR](https://cloud.profcollet.fr/index.php/s/PGnGoHB9LPd9pe2)

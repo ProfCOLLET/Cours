@@ -86,5 +86,11 @@ Choissisez un organes des sens et expliquer son fonctionnement dans son rôle se
 Regarder la vidéo. 
 <iframe width="1100" height="800" src="https://www.youtube.com/embed/iNSG9O_Iw2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
---- 
+
+---
+
+## Me rendre votre travail
+
+1. Renomer votre fichier avec **votre NOM, prénom et classe**
+2. Le déposer ici : [LIEN POUR DEPOT DE DEVOIR](https://cloud.profcollet.fr/index.php/s/PGnGoHB9LPd9pe2)
 
