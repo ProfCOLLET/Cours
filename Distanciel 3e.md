@@ -100,11 +100,13 @@ Après la pollinisation, la fleur est fécondée et se transforme en **fruit** c
 ---
 # Vidéo du cours 1 
 
+---
 
+<iframe width="1100" height="800" src="https://www.youtube.com/embed/ZfOIDjKLwGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ---
-# Partie 2.1 : Travail de vacances, première semaine
+# Partie 2.1 : Travail de vacances, première semaine (30 min)
 
 --- 
 
@@ -114,7 +116,7 @@ Petit travail de recherche :
 
 ---
 
-## Partie 2.2 : Travail de vacances, deuxième semaine
+## Partie 2.2 : Travail de vacances, deuxième semaine (30 min)
 
 ---
 
