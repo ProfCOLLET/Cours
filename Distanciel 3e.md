@@ -50,7 +50,7 @@ La plantes possèdent deux zones de croissances :
 ## Anatomie de la feuille
 ---
 
-![bg fit](http://www.ac-grenoble.fr/ecoles/hg/local/cache-vignettes/L500xH411/Constitution_d_une_feuille-4f9b7.jpg)
+![bg fit](http://soutien67.free.fr/svt/vegetaux/images/feuille_01.gif)
 
 ---
 
@@ -98,7 +98,12 @@ Après la pollinisation, la fleur est fécondée et se transforme en **fruit** c
 
 
 ---
+# Vidéo du cours 1 
 
+
+
+
+---
 # Partie 2.1 : Travail de vacances, première semaine
 
 --- 
