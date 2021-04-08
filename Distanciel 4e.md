@@ -66,11 +66,20 @@ Il existe deux types de nerfs :
 
 ---
 
+# Vidéo du cours 1 
+
+
+---
+
+<iframe width="1100" height="800" src="https://www.youtube.com/embed/0yMTniu1zSo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 # Partie 2.1 : Travail de vacances semaine 1
 
 --- 
 
-Choissisez un organes des sens et expliquer son fonctionnement dans son rôle sensitif. 
+Choissisez un organe des sens et expliquez son fonctionnement dans son rôle sensitif. 
 
 * Oeil
 * Nez
@@ -83,7 +92,7 @@ Choissisez un organes des sens et expliquer son fonctionnement dans son rôle se
 # Partie 2.2 : Travail de vacances semaine 2
 
 ---
-Regarder la vidéo. 
+Regardez la vidéo. 
 <iframe width="1100" height="800" src="https://www.youtube.com/embed/iNSG9O_Iw2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
