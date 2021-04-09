@@ -39,7 +39,7 @@ Les **reins** sont des organes qui filtrent le sang en permanence, ils fabriquen
 
 ---
 
-
+<iframe width="1100" height="800" src="https://www.youtube.com/embed/mglwWQFcNRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -47,7 +47,7 @@ Les **reins** sont des organes qui filtrent le sang en permanence, ils fabriquen
 
 --- 
 
-Faire une recherche sur une maladie du rein, expliquer ce qu'est cette maladie. 
+Faire une recherche sur une maladie du rein, expliquer ce qu'est cette maladie. (30 à 45 min)
 
 ---
 
