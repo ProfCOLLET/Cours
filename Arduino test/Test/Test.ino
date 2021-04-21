@@ -26,32 +26,32 @@ void loop()
 {
     // contenu de votre programme
     digitalWrite(led_rouge1, LOW);
-    delay(10);
+    delay(100);
     digitalWrite(led_rouge2, LOW);
-    delay(10);
+    delay(100);
     digitalWrite(led_jaune1, LOW);
-    delay(10);
+    delay(100);
     digitalWrite(led_jaune2, LOW);
-    delay(10);
+    delay(100);
     digitalWrite(led_vert1, LOW);
-    delay(10);
+    delay(100);
     digitalWrite(led_vert2, LOW);
-    delay(10);
+    delay(100);
     digitalWrite(led_blanc, LOW);
-    delay(10);
+    delay(100);
 
     digitalWrite(led_rouge1, HIGH);
-    delay(10);
+    delay(100);
     digitalWrite(led_rouge2, HIGH);
-    delay(10);
+    delay(100);
     digitalWrite(led_jaune1, HIGH);
-    delay(10);
+    delay(100);
     digitalWrite(led_jaune2, HIGH);
-    delay(10);
+    delay(100);
     digitalWrite(led_vert1, HIGH);
-    delay(10);
+    delay(100);
     digitalWrite(led_vert2, HIGH);
-    delay(10);
+    delay(100);
     digitalWrite(led_blanc, HIGH);
-    delay(10);
+    delay(100);
 }
