@@ -429,9 +429,10 @@ Attention au matériel
 ---
 
 ![h:560](Ressources/Photos/34p41.png)
-  
  
  
+---
+
 ---
  
  Le poumon a une **structure alvéolaire**, ou spongieuse. 
