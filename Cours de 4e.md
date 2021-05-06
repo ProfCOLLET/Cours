@@ -340,7 +340,7 @@ La **Testostérone** est produite par les testicules, elle va provoqué plusieur
 
 ---
 
-### Exemple de l'effetsde la testostérone chez le rat mâle
+### Exemple de l'effets de la testostérone chez le rat mâle
 
 Chez le rat mâle, le comportement sexuel dépend du niveau de testostérone. La castration réduit l'activité sexuelle. La testostérone augmente celle-ci. 
 
@@ -387,7 +387,7 @@ Elle est impliquée dans la grossesse et l'embryogenèse(formation de l'embryon)
 
 --- 
 
-## Le cycle mentruel
+## Le cycle menstruel
 
 Avant de concevoir un enfant, la femme doit produire des ovocytes et l'homme des spermatozoïdes. La fabrication de ces cellules s'effectue sous le contrôle des hormones durant le cycle menstruel.
 
