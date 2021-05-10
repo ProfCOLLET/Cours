@@ -455,4 +455,35 @@ Attention au matériel
 
 
 ---
+## Correction
+
+1) La fréquence ventilatoire correspond au nombre de cycle d’inspiration / expiration par minute. 
+
+
+---
+
+![bg](Ressources/Photos/tab1.png)
+
+---
+
+4) Durant un effort, le **rythme respiratoire** (ou **fréquence ventilatoire**) va augmenter. En même temps, les poumons vont se remplir de davantage d’air par cycle d’inspiration. Il y a donc un double effet durant un effort physique, une augmentation du rythme ventilatoire ainsi qu’une augmentation du volume ventilatoire, ce qui conduit à une augmentation du débit ventilatoire.  
+
+---
+
+<iframe width="1100" height="800" src="https://www.youtube.com/embed/HoZss4Sc1E0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+# Leçon 13 : Le coeur
+
+--- 
+
+<iframe width="1100" height="800" src="https://www.youtube.com/embed/u7qZAs5lhBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+--- 
+
+## Dissection virtuelle
+
+---
+
 
