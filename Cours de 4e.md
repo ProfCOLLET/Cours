@@ -406,7 +406,7 @@ Le cycle menstruel dure environ 28 jours et comprend les phases suivantes :
 
 * **jour 14 :** c'est l'ovulation, au cours de laquelle le follicule mûr expulse l'ovocyte. L'ovulation est déclenchée par le pic d'une hormone. La glaire cervicale présente au niveau du col de l'utérus est lâche, afin de laisser passer les spermatozoïdes
 
->ATTENION : on pense à tort que l'ovulation a lieu au 14e jour, en réalite elle a lieu 14 jours avant le debut des règles suivante... ce qui tombe le 14e jour pour un cycle de 28 jours, mais toutes les femmes n'ont pas un un cycle de 28  jours. 
+>ATTENTION : on pense à tort que l'ovulation a lieu au 14e jour, en réalite elle a lieu 14 jours avant le debut des règles suivante... ce qui tombe le 14e jour pour un cycle de 28 jours, mais toutes les femmes n'ont pas un un cycle de 28  jours. 
 --- 
 
 * **jours 15 à 28 :** le follicule évolue en corps jaune, qui produit des oestrogènes et de la progestérone. La muqueuse utérine prend un aspect de dentelle : elle est prête à accueillir l'embryon. S'il n'y a pas de fécondation, le corps jaune régresse, les taux d'hormones ovariennes chutent, d'où le déclenchement des règles.
