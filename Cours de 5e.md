@@ -486,4 +486,10 @@ Attention au matériel
 
 ---
 
+[Lien pour dissection](https://svt.ac-versailles.fr/IMG/archives/docpeda/actpeda/lycee/coeur/page1.html)
 
+---
+
+![bg](/Cours/Ressources/Photos/coeur.jpg)
+
+---
