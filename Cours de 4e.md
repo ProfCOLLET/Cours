@@ -416,3 +416,13 @@ Le cycle menstruel dure environ 28 jours et comprend les phases suivantes :
 
 ![bg contain](Ressources/Photos/hormone4.png)
 
+---
+
+# Leçon 13 : Contraception
+
+--- 
+
+## Faisons la liste des moyens de contraception
+
+--- 
+
