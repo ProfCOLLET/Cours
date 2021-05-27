@@ -444,7 +444,7 @@ Le préservatif masculin est un étui souple en latex qui recueille le sperme lo
 
 ---
 
-![bg](/Cours/Ressources/Photos/capote.gif)
+![bg](/Cours/Ressources/Photos/capote.png)
 
 
 ---
@@ -478,13 +478,17 @@ Le diaphragme est constitué d'une membrane en caoutchouc souple, tendue sur un 
 
 ---
 
-![bg](/Cours/Ressources/Photos/diaph.gif)
+![bg](/Cours/Ressources/Photos/diaph.png)
 
 ---
 
 ## Les stérilets
 
 Le stérilet est un dispositif en plastique souple et en cuivre, de petite taille. Sa mise en place, au niveau de l’utérus, est réalisée par le médecin pour deux ans. Sa présence rend l’endomètre inapte à la nidation d'un embryon. En France, seules les femmes ayant déjà eu des enfants et qui n’en désirent plus utilisent le stérilet, en raison d’un risque possible d’infection ou de grossesse extra-utérine pouvant causer une stérilité.
+
+---
+
+![bg](Ressources/Photos/sterilet.png)
 
 ---
 
