@@ -125,80 +125,194 @@ Il nous donne la luminosité en lux (1 lumen /m2). Un lumen correspond à la lum
 
 ---
 
-![bg](https://www.chosesasavoir.com/wp-content/uploads/2017/06/pluie-de-poissons-1.jpg)
 
-Pluie de poissons
+
+### Pluie de poissons
 
 ---
 
- ![bg](https://resize-parismatch.lanmedia.fr/r/901,,forcex/img/var/news/storage/images/paris-match/actu/environnement/les-impressionnantes-images-de-la-neige-au-sahara-1434248/neige-sahara-14/23623007-1-fre-FR/Neige-Sahara-14.jpg)
+![bg](https://www.chosesasavoir.com/wp-content/uploads/2017/06/pluie-de-poissons-1.jpg)
+
+---
+
+### Neige dans le désert
+
+---
+
+
+
+![bg](https://resize-parismatch.lanmedia.fr/r/901,,forcex/img/var/news/storage/images/paris-match/actu/environnement/les-impressionnantes-images-de-la-neige-au-sahara-1434248/neige-sahara-14/23623007-1-fre-FR/Neige-Sahara-14.jpg)
  
-Neige dans le désert
+
+
+---
+
+### Pluies
 
 ---
 
 ![bg ](https://www.cieau.com/wp-content/uploads/2019/03/GettyImages-898238970.jpg )
 
-Pluies
+
+
+---
+
+### Canicule
 
 ---
 
 ![bg auto](https://www.cdg31.fr/sites/default/files/styles/node_main_image_full/public/news/image/caniculecovid-19.jpg?itok=2XLygivs)
 
 
+---
+
+### Grêle
 
 ---
 
 ![bg](https://france3-regions.francetvinfo.fr/image/tX_kf6RXxdh30W9swSyhUgEfss0/600x400/regions/2020/06/09/5edf9f3219995_img_3836-4852278.jpg)
 
-Grêle
+
 
 ---
 
+### Tempêtes
+
+---
+
+
 ![bg](https://cdn.futura-sciences.com/buildsv6/images/wide1920/3/3/3/33390cd9b9_50168490_ouragan-delta-hors-normes.jpg)
 
-Tempêtes
+
+
+---
+
+### Tornade
 
 ---
 
 ![bg](https://upload.wikimedia.org/wikipedia/commons/9/98/F5_tornado_Elie_Manitoba_2007.jpg)
 
-Tornade
 
 ---
 
+### Vent
+
+--- 
+
 ![bg](https://static.actu.fr/uploads/2018/09/vent-rafales.jpeg)
 
-Vent
+
+
+---
+
+### Neige
 
 ---
 
 ![bg](https://services.meteored.com/img/article/meteo-une-semaine-froide-avec-pluie-et-neige-25481-1.jpg)
 
-Neige
+
+
+---
+
+### Crues
 
 ---
 
 ![bg](https://images.sudouest.fr/2020/10/06/5f7b4a5066a4bd8251d0c6de/widescreen/1000x500/crue-de-la-vezere.jpg)
 
-Crues
+
+---
+
+### Orage
 
 ---
 
 ![bg](https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/a/0/a/a0a06a6488_50148307_orage-plus-puissant.jpg)
 
-Orage
 
 ---
 
-# Leçon 2 : A venir...
+# Leçon 2 : Les climats de la Terre
+
 
 ---
 
-# Leçon 3 : A venir...
+La Terre n’a pas un climat unique, même si l’on peut faire une moyenne des températures sur la planète entière, celle ci n’est pas très représentative. 
+
+La température moyenne de la Terre est de **15°C**.  
 
 ---
 
+![bg fit](Ressources/Photos/temp-min-fr.png)
+
+---
+
+![bg fit](Ressources/Photos/temp-max-fr.png)
+
+---
+
+![bg fit](Ressources/Photos/meteo1.jpg)
+
+
+---
+
+![bg fit](Ressources/Photos/climats.png)
+
+
+---
+# Leçon 3 : Dynamique des masses d’airs
+
+---
+L’Atmosphère est l’enveloppe de gaz qui entoure la Terre, que l’on appelle le plus souvent « AIR ».
+
+L’atmosphère est un mélange de gaz, les plus courant sont : 
+
+- le diazote à 78 %
+- le dioxygène à 21 % 
+- 1 % de beaucoup d’autres gaz
+
+---
+
+L’atmosphère est également composée de vapeur d’eau. 
+
+---
+**L’air chaud est moins dense que l’air froid**, on peut dire qu’il est moins lourd, donc quand il y a de l’air chaud et de l’air froid, l’air **froid va descendre et l’air chaud va monter**. 
+
+---
+
+Comme l’air chaud **monte**, il y a moins d’air au niveau du sol, il y a donc moins de pression, ce qu’on appelle **basse pression**. 
+On parle de pression atmosphérique, la pression que fait l’air sur nous.
+
+L’air froid a tendance à **descendre**, il va donc s’accumuler près du sol, formant les **hautes pressions**.
+
+---
+## Activité en groupe
+
+Avec l’aide de votre voisin, tentez de représentez ces basses et hautes pressions sous forme d’un schéma. 
+Des mouvements de masses d’airs doivent apparaitre. 
+
+---
+
+![bg fit](Ressources/Photos/dynair1.png)
+
+---
+
+![bg fit](Ressources/Photos/dynair2.jpg)
+
+---
+## Le vent
+
+L’air froid a tendance à descendre, il va donc s’accumuler près du sol, formant les hautes pressions.
+
+L’air chaud monte en altitude, laissant un « vide » ou une zone de basse pression.
+
+
+L’air va alors toujours se déplacer des hautes pressions vers les basses pressions. C'est ce qu'on appelle le **Vent**. 
+
+
+---
 # Leçon 4 : A venir...
 
 ---
@@ -490,6 +604,63 @@ Attention au matériel
 
 ---
 
-![bg](/Cours/Ressources/Photos/coeur.jpg)
+![bg fit](Ressources/Photos/coeur2.jpg)
 
 ---
+
+![bg fit](Ressources/Photos/coeur.jpg)
+
+---
+
+![bg fit](Ressources/Photos/coeur3.png)
+
+---
+
+# Leçon 14 : Les organes consomment de l’ $$O_2$$ et du sucre
+
+---
+
+![bg fit](Ressources/Photos/5p38.png)
+
+---
+
+Les organes effectuent en permanence des échanges avec le sang : ils y prélèvent des nutriments et du dioxygène ; ils y rejettent des déchets dont le dioxyde de carbone.
+
+---
+
+![bg fit](Ressources/Photos/6p38.png)
+
+---
+
+La consommation de nutriments et de dioxygène, le rejet de dioxyde de carbone par les organes varient selon leur activité́, cela s’accompagne de modifications au niveau de l’organisme (augmentation de la température, des rythmes cardiaque et respiratoire). 
+
+---
+
+# Leçon 15 : Anatomie de l’appareil digestif. 
+
+---
+
+## Activité : A l'aide des documents pages 18 et 19, décrivez le trajet des aliments dans le tube digestif
+
+
+--- 
+
+![bg fit](Ressources/Photos/1p18.png)
+
+---
+
+![bg fit](Ressources/Photos/2p18.png)
+
+---
+
+![bg fit](Ressources/Mermaid/td.svg)
+
+---
+
+# Leçon 16 : L'interêt de manger équoilibré
+
+
+---
+
+<iframe width="1100" height="800" src="https://www.youtube.com/embed/459UQcfZDNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

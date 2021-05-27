@@ -444,7 +444,7 @@ Le préservatif masculin est un étui souple en latex qui recueille le sperme lo
 
 ---
 
-![bg](/Cours/Ressources/Photos/capote.png)
+![bg](Ressources/Photos/capote.png)
 
 
 ---
@@ -478,7 +478,7 @@ Le diaphragme est constitué d'une membrane en caoutchouc souple, tendue sur un 
 
 ---
 
-![bg](/Cours/Ressources/Photos/diaph.png)
+![bg](Ressources/Photos/diaph.png)
 
 ---
 
@@ -510,4 +510,6 @@ Mais cette intervention ne peut être efficace que si elle se fait dans les 12 h
 ## Les croyances populaires
 
 Il existe d'autres méthodes contraceptives, mais celles-ci sont à éviter, car leur efficacité est extrêmement limitée. Il s'agit du retrait, de la méthode de la température, de la toilette vaginale, de la détermination de la période de fécondité par le calcul des jours.
+
+---
 
