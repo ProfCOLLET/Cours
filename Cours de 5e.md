@@ -312,14 +312,110 @@ L’air chaud monte en altitude, laissant un « vide » ou une zone de basse p
 L’air va alors toujours se déplacer des hautes pressions vers les basses pressions. C'est ce qu'on appelle le **Vent**. 
 
 
+
 ---
-# Leçon 4 : A venir...
+# Leçon 4 : Dynamique des masses d’eaux
 
 ---
 
-# Leçon 5 : A venir...
+<iframe width="1100" height="800" src="https://www.youtube.com/embed/8S0OxqHbkFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
+
+L'hydrosphère est l’ensemble de l’eau sur Terre, qu’elle soit sous forme Solide (glace, neige), Liquide (eau douce ou eau de mer) et Gazeuse (vapeur d’eau). 
+L’eau sous forme liquide se trouve dans les océans, les fleuves, mais aussi dans les nappes phréatiques (eau souterraines dans la roche). 
+
+L’eau sous forme solide se trouve dans les glaciers, la banquise ou les neiges éternelles. 
+La vapeur d’eau se trouve dans l’atmosphère. 
+
+---
+
+<iframe width="1100" height="800" src="https://www.youtube.com/embed/nhmposeF2gk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+L'energie n'est pas reçue équitablement sur la suface de la Terre, ce qui va créer des dééquilibres, provoquant le **vent**, qui va mettre en mouvement les eaux de surfaces. 
+
+Les eaux en profondeur vont être mise en mouvement à cause de : 
+
+- la température de l'eau
+- la salinité de l'eau
+
+---
+
+# Leçon 5 : Quand la météo fait n’importe quoi
+
+---
+
+## Apprenons à lire une carte météorologique
+
+
+---
+
+![bg fit](Ressources/Photos/cartesmeteos/0.png)
+
+---
+
+![bg fit](Ressources/Photos/cartesmeteos/ex.png)
+
+---
+
+![bg fit](Ressources/Photos/cartesmeteos/1.png)
+
+---
+
+![bg fit](Ressources/Photos/cartesmeteos/2.jpg)
+
+---
+
+![bg fit](Ressources/Photos/cartesmeteos/3.png)
+
+
+
+![bg fit](Ressources/Photos/cartesmeteos/4.jpg)
+
+---
+
+![bg fit](Ressources/Photos/cartesmeteos/5.jpg)
+
+---
+
+![bg fit](Ressources/Photos/cartesmeteos/6.jpg)
+
+---
+
+![bg fit](Ressources/Photos/cartesmeteos/7.png)
+
+---
+
+![bg fit](Ressources/Photos/cartesmeteos/8.jpg)
+
+---
+
+![bg fit](Ressources/Photos/cartesmeteos/9.jpg)
+
+---
+
+
+![bg fit](Ressources/Photos/cartesmeteos/10.jpg)
+
+---
+
+![bg fit](Ressources/Photos/cartesmeteos/11.png)
+
+---
+
+
+![bg fit](Ressources/Photos/cartesmeteos/12.png)
+
+---
+
+
+
+
+
+
+
 
 # Leçon 6 : A venir...
 
