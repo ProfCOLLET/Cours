@@ -370,7 +370,7 @@ Les eaux en profondeur vont être mise en mouvement à cause de :
 
 ![bg fit](Ressources/Photos/cartesmeteos/3.png)
 
-
+---
 
 ![bg fit](Ressources/Photos/cartesmeteos/4.jpg)
 
@@ -712,7 +712,7 @@ Attention au matériel
 
 ---
 
-# Leçon 14 : Les organes consomment de l’ $$O_2$$ et du sucre
+# Leçon 14 : Les organes consomment de l’ oxygène et du sucre
 
 ---
 
