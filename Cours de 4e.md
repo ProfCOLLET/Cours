@@ -513,3 +513,16 @@ Il existe d'autres méthodes contraceptives, mais celles-ci sont à éviter, car
 
 ---
 
+# Leçon 14 : VIH
+
+--- 
+
+<iframe width="1100" height="800" src="https://www.youtube.com/embed/rwP7H0fVDHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+---
+
+<iframe width="1100" height="800" src="https://www.youtube.com/embed/giqyMaFwyF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
