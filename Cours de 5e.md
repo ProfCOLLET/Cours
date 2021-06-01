@@ -712,7 +712,7 @@ Attention au matériel
 
 ---
 
-# Leçon 14 : Les organes consomment de l’ oxygène et du sucre
+# Leçon 14 : Les organes consomment de l’oxygène et du sucre
 
 ---
 
