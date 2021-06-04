@@ -753,7 +753,7 @@ La consommation de nutriments et de dioxygène, le rejet de dioxyde de carbone p
 
 ---
 
-# Leçon 16 : L'interêt de manger équoilibré
+# Leçon 16 : L'interêt de manger équilibré
 
 
 ---
