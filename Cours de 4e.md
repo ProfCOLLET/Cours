@@ -521,6 +521,8 @@ Il existe d'autres méthodes contraceptives, mais celles-ci sont à éviter, car
 
 La loi du 17 janvier 1975 relative à l'interruption volontaire de grossesse, dite loi Veil, est une loi encadrant une dépénalisation de l'avortement en France. Elle a été préparée par Simone Veil, ministre de la Santé.
 
+---
+
 Le vote de cette loi est précédé par différents épisodes de la vie politique liés directement ou indirectement à l'interdiction de l'avortement, comme la légalisation de la contraception (1967), le Manifeste des 343 (1971), le procès de Bobigny (1972) puis le Manifeste des 331 (1973). 
 
 ---
@@ -532,6 +534,8 @@ Il existe 2 méthodes d'IVG :
   
 - L'IVG médicamenteuse est pratiquée en établissement de santé (hôpital ou clinique), en cabinet de ville, en centre de planification ou en centre de santé (jusqu'à 5 semaines de grosesse, soit 7 semaines depuis les dernières règles). 
   
+---
+
 La technique d'avortement utilisée dépend de votre choix et du terme de votre grossesse.
 
 Ce choix peut être effectué avec l'aide du médecin lors de la 1re ou 2e consultation médicale.
