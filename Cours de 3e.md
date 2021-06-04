@@ -399,7 +399,7 @@ Chaque jour, les techniques changent ou deviennent plus précises, les échelles
 
 ---
 
-<embed src="5e/FriseSVT.pdf" width=1200 height=800 type='application/pdf'/>
+<embed src="Fiches/FriseSVT.pdf" width=1200 height=800 type='application/pdf'/>
 
 ---
 # Ère Primaire
