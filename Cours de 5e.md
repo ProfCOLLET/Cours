@@ -753,6 +753,10 @@ La consommation de nutriments et de dioxygène, le rejet de dioxyde de carbone p
 
 ---
 
+![bg fit](Ressources/Photos/td.jpg)
+
+---
+
 # Leçon 16 : L'interêt de manger équilibré
 
 
