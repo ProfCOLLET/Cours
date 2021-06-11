@@ -9,3 +9,26 @@ Resources
     name:Blanquer
     desc:Un chauve pas comme les autres
 
+Settings
+	background:stuff/meadow.jpg
+	building cost increase:115%
+	building cost refund:50%
+	spritesheet:icons, 48 by 48, stuff/bunnyIcons.png
+	stylesheet:stuff/bigBlue.css
+
+Layout
+	use default
+		
+Buttons
+	*bunnyButton
+		name:Make a bunny
+		desc:Click this little bunny to get more bunnies!
+		on click:anim icon wobble
+		on click:yield 1 bunny
+		on click:if (have goldenTouch and chance(1%)) yield 1 goldenCarrot
+		icon:stuff/bunny.png
+		no text
+		class:bigButton hasFlares
+		icon class:shadowed
+		tooltip origin:bottom
+		tooltip class:red
