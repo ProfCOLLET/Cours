@@ -562,3 +562,161 @@ Tous les établissements de santé publics ou privés ne pratiquent pas les 2 te
 
 ---
 
+Le VIH est le virus responsable du sida, le stade ultime de la maladie en absence de traitement pour contrer le virus. Le VIH (HIV en anglais) se transmet par voie sexuelle, sanguine et de la mère à l’enfant. Il s’attaque aux cellules du système immunitaire et les détruit progressivement.
+
+---
+
+Une personne qui a été infectée par le VIH est séropositive à ce virus, en opposition à celles et ceux qui n’ont pas été contaminés, dits séronégatifs. Le VIH ne se guérit pas (encore). Grâce aux traitements récents, les personnes vivent avec le virus et restent en bonne santé.
+
+
+L’infection par le VIH peut rester invisible. Dès la contamination, les personnes séropositives peuvent transmettre le virus, sans pour autant présenter de symptômes. 
+
+---
+
+Le VIH ne se voit pas sur le visage de quelqu’un, il peut toucher n’importe qui, peu importe l’état de santé au préalable. 
+
+
+Le VIH est un virus transmissible, pas contagieux. Contrairement à des clichés encore très ancrés, il n’y a AUCUN risque à boire dans le verre, utiliser la serviette de toilette, faire la bise, ou utiliser les couverts d’une personne séropositive. Tout comme le virus ne se transmet pas par les moustiques ou la transpiration. 
+
+---
+
+# Leçon 16 :  Le système nerveux
+
+--- 
+
+## La vue, l'ouïe, l'odorat, le goût et le toucher : comment le corps humain reçoit-il les informations sensorielles ?
+
+---
+
+![bg](./Ressources/Mermaid/organesdessens.svg)
+
+--- 
+
+Le **système nerveux** se compose : 
+
+- du cerveau
+- des nerfs
+- de la moëlle épinière
+
+
+---
+
+Le cerveau doit recevoir et traiter des informations issues du monde extérieur afin de **réagir**, **communiquer** et **entretenir** la bonne santé et la **sécurité** du corps. 
+
+---
+
+La majeure partie de ces informations provient des **organes** **sensoriels** : les **yeux**, les **oreilles**, le **nez**, la **langue** et la **peau**. 
+
+---
+
+Des **cellules** et des **tissus** **spécialisés** de ces organes reçoivent des stimuli bruts et les traduisent en des signaux que le cerveau peut alors utiliser. 
+
+---
+
+Les **nerfs** relaient ces signaux vers le cerveau, qui les interprète comme la vue (**vision**), l'ouïe (**audition**), l'odorat (**olfaction**), le goût (**gustation**) et le toucher (**perception tactile**).
+
+---
+
+Il existe deux types de nerfs : 
+
+1. Les nerfs sensitifs
+2. Les nerfs moteurs
+
+--- 
+
+
+![bg fit](./Ressources/Mermaid/nerfsensitif.svg)
+
+
+---
+
+
+![bg fit](./Ressources/Mermaid/nerfmoteur.svg)
+
+---
+
+## La vue
+
+---
+
+La vue est le sens qui permet de réagir à l'environnement distant au moyen des rayonnements lumineux.
+
+L'œil est l'organe de la vue, mais la vision, c'est-à-dire la perception visuelle, implique des zones spécialisées du cerveau. Le cortex visuel synthétise les influx nerveux transmises par le nerf optique pour identifier des formes, des couleurs, des textures, des reliefs.
+
+La plupart des espèces vivantes animées possèdent un sens de la vue, dont les caractéristiques, variées, dépendent de leur environnement.
+
+---
+
+![bg fit](https://upload.wikimedia.org/wikipedia/commons/d/d2/Blue_eye_Stephen.png)
+
+---
+
+## L'ouïe
+
+---
+
+Chez les mammifères, l'oreille est l'organe principal de l'ouïe.
+
+
+Il existe des cils qui vibrent selon les vibrations, cette vibration est transformé en information nerveuse, transmise au cerveau. 
+
+---
+
+![bg fit](https://upload.wikimedia.org/wikipedia/commons/8/80/Earcov.JPG)
+
+---
+
+## L'odorat
+
+---
+
+L'olfaction ou l'odorat est le sens qui permet d'analyser les substances chimiques volatiles (odeurs) présentes dans l’air.
+
+
+L’olfaction est la fonction sensorielle qui correspond à la perception des substances odorantes. 
+
+Cette fonction est assurée par la muqueuse olfactive qui couvre environ 10 % soit 2 cm2 de la surface totale de la cavité nasale. Des cellules glandulaires, présentes dans la muqueuse et dans la sous-muqueuse, sécrètent un mucus tapissant l'intérieur du nez, ce qui assure un lavage permanent de la muqueuse.
+
+---
+
+Cette muqueuse olfactive est composée de neurones olfactifs.
+
+Ces neurones sont des neurones spécialisés : ils présentent des cils à l'extrémité qui baignent dans la couche de mucus tapissant la cavité nasale. Lors de la présence d'une odeur, ces cils captent les molécules et les neurones envoient un signal nerveux au cerveau. 
+
+---
+
+![bg fit](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Head_olfactory_nerve.jpg/527px-Head_olfactory_nerve.jpg)
+
+
+---
+
+## Le goût
+
+---
+
+Le goût, ou la gustation, est le sens qui permet d'identifier les substances chimiques par l'intermédiaire de récepteurs situés sur la langue.
+Il joue un rôle important dans l'alimentation en permettant d'analyser la saveur des aliments. La perception du goût est intimement liée à l'odorat et le terme « goût » englobe ces deux sens dans le langage courant. 
+
+
+---
+
+![bg fit](https://www.e-sante.fr/files/styles/pano_xxl/public/images/article/9/4/7/5588749/vignette-focus.jpg)
+
+---
+
+## Le toucher
+
+---
+
+Le toucher donne des informations par contact de la peau avec la surface des corps solides et accessoirement par exposition aux fluides (eau, air, etc.). Une bonne partie de ces informations sont spécifiques : la température ou la consistance ne pourraient être connues autrement.
+
+C'est dans les différents corpuscules tactiles, structures plus ou moins spécialisées de la peau, qu'il faut chercher les prémices des différentes informations élaborées par le système nerveux.
+
+---
+
+![bg fit](https://cdn.radiofrance.fr/s3/cruiser-production/2019/03/c79abe96-0bc3-441c-b2e2-1ab7c5b99236/838_skin-2016480_1920.jpg)
+
+---
+
+
+
