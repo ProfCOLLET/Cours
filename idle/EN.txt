@@ -4,17 +4,12 @@ Let's make a game!
 	updated:11/06/2021
 	version:1
 
-Resources
-  *pie
-    name:Blanquer
-    desc:Un chauve pas comme les autres
-
 Settings
-	background:stuff/meadow.jpg
-	building cost increase:115%
-	building cost refund:50%
-	spritesheet:icons, 48 by 48, stuff/bunnyIcons.png
-	stylesheet:stuff/bigBlue.css
+	background:https://www.profcollet.fr/idle/blanquer.jpg
+	building cost increase:120%
+	building cost refund:75%
+	spritesheet:icons, 48 by 48, https://www.profcollet.fr/idle/blanquericon.jpg
+	stylesheet:./css.css
 
 Layout
 	use default
