@@ -8,20 +8,17 @@ Settings
 	background:https://www.profcollet.fr/idle/blanquer.jpg
 	building cost increase:120%
 	building cost refund:75%
-	spritesheet:icons, 48 by 48, https://www.profcollet.fr/idle/blanquericon.jpg
+	spritesheet:icons, 48 by 48, https://www.profcollet.fr/idle/blanquericone.jpg
 	stylesheet:./css.css
 
 Layout
 	use default
 		
 Buttons
-	*bunnyButton
-		name:Make a bunny
-		desc:Click this little bunny to get more bunnies!
-		on click:anim icon wobble
-		on click:yield 1 bunny
-		on click:if (have goldenTouch and chance(1%)) yield 1 goldenCarrot
-		icon:stuff/bunny.png
+	*BlanquerButton
+		name:Fait un islamogauchiste
+		desc:Clic pour fabriquer un islamogauchiste
+		icon:ttps://www.profcollet.fr/idle/blanquericone.jpg
 		no text
 		class:bigButton hasFlares
 		icon class:shadowed
