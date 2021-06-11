@@ -1,0 +1,16 @@
+Let's make a game!
+  name:Education Nationnale Idle Clicker
+
+Resources
+  *pie
+    name:Blanquer
+    desc:Un chauve pas comme les autres
+
+Upgrades
+  *applePieRecipe
+    name:Apple pie recip
+    desc:Unlocks the ability to make apple pies!
+    
+  *cherryPieRecipe
+    name:Cherry pie recipe
+    desc:Boy, you'll never guess!
