@@ -507,5 +507,170 @@ Rappel : Une bactérie est un être vivant unicellulaire. Un virus est un parasi
 
 ---
 
+# Lecon 15 : Phagocytose
+
+--- 
+
+![bg fit](Ressources/Photos/Phago.jpg)
+
+---
+
+# Leçon 16 : Classification des plantes
+
+--- 
+
+Les plantes sont apparus sur Terre il y a environ 1,2 milliard d'année. Les premières plantes terrestres datent quant à elle d'environ 400 millions d'année. 
+
+---
+
+Les plantes se divisent en plusieurs "familles" : 
+
+* les algues **rouges et vertes**
+* les mousses ou **bryophytes**
+* les fougères ou **ptéridophytes**
+* les conifères/résineux ou **gymnospermes**
+* les plantes à fleurs ou **angiosperme**
+
+Dans ce cours, nous ne intéresserons qu'au **angiospermes**. 
+
+---
+
+## Anatomie de la plante à fleur
+
+---
+
+![bg fit](http://ekladata.com/zU82hPhgeUcl-QXoUAz9pDD9eUI.jpg)
+
+---
+
+La plantes possèdent deux zones de croissances : 
+
+* Un **APEX** racinaire, qui assure une croissance verticale vers le bas. Il est situé au bout de la racine principale. 
+* Un **APEX** caulinaire, qui assure une croissance verticale vers le haut. Il est situé au bout de la tige principale. 
+
+>Dans une seconde partie de son développement, et selon les plantes, une croissance secondaire apparait pour une augmentation de circonférence.*
+
+---
+
+## Anatomie de la feuille
+
+---
+
+![bg fit](http://soutien67.free.fr/svt/vegetaux/images/feuille_01.gif)
+
+---
+
+Il existe des formes très différentes pour les feuilles, chaque feuille est une caractéristique de la plante. (Voir [Article Wikipédia](https://fr.wikipedia.org/wiki/Forme_foliaire))
+
+---
+
+## Anatomie de la racine
+
+---
 
 
+
+La racine est le plus souvent un organe souterrain ayant deux ou trois rôles :
+
+* **absorber** l'eau et les sels minéraux indispensables à la plante
+* **fixer** celle-ci dans le sol 
+* un rôle de **réserve**
+
+
+Les racines sont souvent le siège de symbioses avec les bactéries du sol.
+Certaines racines de plantes sont comestibles ou à usage médicinal, d'autres sont hautement toxiques.
+
+---
+
+![bg fit](https://images.theconversation.com/files/238212/original/file-20180926-48656-p0lpi3.png?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop)
+
+
+---
+
+## Anatomie de la tige
+
+---
+La tige est l'axe généralement aérien qui prolonge la racine et porte les bourgeons et les feuilles.
+La tige se ramifie généralement en branches et rameaux formant l'**appareil caulinaire**. 
+
+La tige diffère de la racine par la présence de nœuds où s'insèrent les bourgeons et les feuilles. 
+La transition entre racine et tige se fait dans le « collet ». 
+
+Il peut exister des tiges souterraines comme il existe des racines aériennes.
+
+---
+
+## Anatomie de la fleur 
+
+---
+
+Chez les plantes à fleurs (angiospermes), la fleur constitue l'organe de la *reproduction sexuée* et l'ensemble des "enveloppes" qui l'entourent. 
+Après la pollinisation, la fleur est fécondée et se transforme en **fruit** contenant les **graines**. Les fleurs peuvent être solitaires, mais elles sont le plus souvent regroupées en [inflorescences](https://fr.wikipedia.org/wiki/Inflorescence).
+
+---
+
+![bg fit](https://lululataupe.com/images/decouverte/nature/schema-d-une-fleur.png)
+
+
+---
+
+# Leçon 17 :  La cellule végétale
+
+---
+
+## Caractéristiques distinctives des cellules végétales
+
+Les principaux caractères distinctifs sont les suivants :
+
+* _une vacuole_: (entourée d'une membrane), qui maintient la turgescence(1) de la cellule et contrôle les échanges de molécules entre le cytoplasme et la sève.
+Les vacuoles servent aussi de "poubelles" et d'"entrepôt" aux cellules végétales, à la fin de la vie de la cellule, ces vacuoles prennent 90 % de l'espace cellulaire.
+
+---
+
+>Turgescence : La turgescence est l'état d'une cellule vivante dilatée par l'eau qui y est entrée, et qui s'accumule dans ses vacuoles ou ses vésicules.
+
+---
+
+
+* _une paroi pectocellulosique_ :  faite de cellulose et de protéines, elle se trouve à l'extérieur de la membrane cellulaire. 
+
+
+* _les plastes_ :, en particulier les **chloroplastes** qui contiennent la **chlorophylle**, ce pigment qui donne aux plantes leur couleur verte et qui intervient dans le processus de la photosynthèse.
+
+
+
+---
+ 
+Comme les autres cellules eucaryotes, les cellules végétales possèdent typiquement un **noyau**, qui contient l'essentiel de l'ADN cellulaire, et des **mitochondries**, lieu de la respiration cellulaire. 
+
+---
+
+## Schéma de la cellule végétale
+
+---
+
+![bg fit](https://s1.qwant.com/thumbr/0x380/a/d/53bc4a246b47e9fbe74c1a2f9dacf96ebd477c63bb72e2932cbe5c70a30332/cellule-vegetale.jpg?u=http%3A%2F%2Ftpe-physique-cuisine.pagesperso-orange.fr%2Fimages-utilisees%2Fcellule-vegetale.jpg&q=0&b=1&p=0&a=1)
+
+
+--- 
+
+# Leçon 18 : La Photosynthèse
+
+
+---
+
+La photosynthèse est le processus, se déroulant dans les chroloplastes (voir *cellule végétale*), qui permet à des organismes  de synthétiser de la matière organique en utilisant l'énergie lumineuse. Elle apparaît il y a plus de **2,45 milliards d'années.**
+
+Elle désigne en particulier la **photosynthèse oxygénique**, qui a produit un bouleversement écologique majeur en faisant évoluer l'atmosphère alors riche en méthane, en l'actuelle, composée essentiellement d'azote (78,08 %) et de dioxygène (20,95%).
+
+---
+
+C'est la photosynthèse oxygénique qui maintient constant le taux d'oxygène dans l'atmosphère terrestre et fournit toute la matière organique ainsi que l'essentiel de l'énergie utilisées par la vie sur Terre.
+
+
+> Aujourd'hui, la puissance moyenne captée par la photosynthèse à l'échelle du globe avoisine 130 térawatts ce qui équivaut à environ six fois la consommation énergétique de l'humanité.
+
+
+---
+
+![bg fit](https://www.sciencesetavenir.fr/assets/inline-img/2018/12/07/w453-98295-photosynthe-se.jpg)
