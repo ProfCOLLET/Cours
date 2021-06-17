@@ -658,7 +658,7 @@ La plupart des espèces vivantes animées possèdent un sens de la vue, dont les
 Chez les mammifères, l'oreille est l'organe principal de l'ouïe.
 
 
-Il existe des cils qui vibrent selon les vibrations, cette vibration est transformé en information nerveuse, transmise au cerveau. 
+Il existe le tympan qui vibre selon les vibrations, cette vibration est transformé en information nerveuse, transmise au cerveau. 
 
 ---
 
