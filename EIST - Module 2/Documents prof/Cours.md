@@ -138,3 +138,21 @@ Afin de mieux comprendre les plantes et les êtres vivants, nous allons les rega
 
 <iframe width="1100" height="800" src="https://www.youtube.com/embed/NQ99dVXP9Is" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+
+## Faire un dessin d'observation
+
+![](./../Ressources/dessin%20obs.png)
+
+---
+
+# Leçon 3 : La cellule
+
+---
+
+## Observation d'une lame mince d'épiderme d'oignon
+
+Voir TP
+
+--- 
+

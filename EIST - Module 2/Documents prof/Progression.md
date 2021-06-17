@@ -20,15 +20,15 @@ S1 H3 | Tour d'horizon de la Terre 3/3  | Herbier (prévoir exemple pour montrer
 S1 H4 | Les feuilles (d'après séances précedentes| Prendre feuilles, refaire schéma avec les élèves
 S2 H1 | Présentation du microscope | 
 S2 H2 | Utilisation du microscope | 
-S2 H3 | Observation  | 
-S2 H4 | Le dessin d'observation, fiche méthode  | 
-S3 H1 | La cellule 1/2| 
-S3 H2 | La cellule 2/2| 
-S3 H3 | x | 
-S3 H4 | x | 
+S2 H3 | Observation  | Lame mince cellule végéale|
+S2 H4 | Le dessin d'observation, fiche méthode  | Dessin d'obs feuille en macroscopique |
+S3 H1 | La cellule 1/2| Observation microscope - Epiderme d'ognon) Prévoir LM + oignon | 
+S3 H2 | La cellule 2/2| Bilan observation, schéma cellule | 
+S3 H3 | Les grandes caractéristiques de la Terre 1/2 | 
+S3 H4 | Les grandes caractéristiques de la Terre 2/2| 
 S4 H1 | Réalisation de l'herbier | 
 S4 H2 | Réalisation de l'herbier | 
-S4 H3 | Mars, comparaison | 
+S4 H3 | Mars, comparons. | 
 S4 H4 | Conclusion Module | 
 
 
