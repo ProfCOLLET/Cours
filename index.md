@@ -1,5 +1,3 @@
-# Profcollet.fr
-
 
 
 
