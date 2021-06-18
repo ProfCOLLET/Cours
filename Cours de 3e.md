@@ -507,7 +507,7 @@ Rappel : Une bactérie est un être vivant unicellulaire. Un virus est un parasi
 
 ---
 
-# Lecon 15 : Phagocytose
+# Leçon 15 : Phagocytose
 
 --- 
 
@@ -515,7 +515,70 @@ Rappel : Une bactérie est un être vivant unicellulaire. Un virus est un parasi
 
 ---
 
-# Leçon 16 : Classification des plantes
+# Leçon 16 : L'immunité humaine
+
+---
+
+
+## L'immunité innée
+
+---
+
+L’ouverture de la barrière naturelle mécanique (peau) permet à des micro-organismes de pénétrer si la plaie n’est pas désinfectée. Des globules blancs = leucocytes interviennent pour défendre l’organisme. Cette première étape est une réaction locale appelée inflammation.
+
+
+---
+
+![bg fit](./Ressources/Photos/infla.jpg)
+
+---
+
+Certains leucocytes sont doués de PHAGOCYTOSE, on les appelle les PHAGOCYTES. Lors de la phagocytose, le phagocyte adhère à la bactérie ou aux cellules mortes de l’organisme et absorbe le micro-organisme. Celui-ci est ensuite digéré par des ENZYMES dans la cellule. Enfin, les déchets issus de la digestion du micro-organisme seront expulsés.
+
+
+Les phagocytes peuvent ingérer plusieurs bactéries à la fois. La phagocytose est une réaction immunitaire rapide et non spécifique, elle dure environ 1 heure.
+
+---
+
+## Jouons un peu ! 
+
+[Lien du jeu en ligne](http://philippe.cosentino.free.fr/productions/leucowar/)
+
+---
+
+## L'immunité adaptative
+
+Notion d’anticorps et d’antigène
+
+<u>Anticorps :</u> molécule en forme de Y produite par les lymphocytes qui se fixe sur les antigènes, les neutralise et facilite la phagocytose
+
+<u>Antigène :</u> molécule qui est reconnue comme étrangère par l’organisme et qui déclenche une réaction de défense. Les antigènes sont portés par les microbes.
+
+
+Un anticorps donné est spécifique à un antigène donné. Un individu est dit séropositif quand il sécrète un anticorps spécifique à un antigène. La réaction engendrée par les lymphocytes B s’appelle la réaction immunitaire à médiation humorale. Cette réaction adaptative est lente et spécifique à un antigène donné.
+
+---
+
+![bg fit](Ressources/Photos/LB.jpg)
+
+---
+
+Les lymphocytes T détruisent directement les cellules étrangères. Les cellules cibles sont des cellules contre lesquelles l’attaque du système immunitaire est dirigée (cellule infectée par un virus, cellule greffée ou cellule cancéreuse).
+
+---
+
+![bg fit](./Ressources/Photos/LT.jpg)
+
+---
+
+
+![bg fit](./Ressources/Photos/LT2.jpg)
+
+---
+
+# Leçon 17 : Classification des plantes
+
+
 
 --- 
 
@@ -614,7 +677,7 @@ Après la pollinisation, la fleur est fécondée et se transforme en **fruit** c
 
 ---
 
-# Leçon 17 :  La cellule végétale
+# Leçon 18 :  La cellule végétale
 
 ---
 
@@ -654,7 +717,7 @@ Comme les autres cellules eucaryotes, les cellules végétales possèdent typiqu
 
 --- 
 
-# Leçon 18 : La Photosynthèse
+# Leçon 19 : La Photosynthèse
 
 
 ---
