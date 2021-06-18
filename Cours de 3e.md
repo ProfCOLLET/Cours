@@ -554,6 +554,7 @@ Notion d’anticorps et d’antigène
 
 <u>Antigène :</u> molécule qui est reconnue comme étrangère par l’organisme et qui déclenche une réaction de défense. Les antigènes sont portés par les microbes.
 
+---
 
 Un anticorps donné est spécifique à un antigène donné. Un individu est dit séropositif quand il sécrète un anticorps spécifique à un antigène. La réaction engendrée par les lymphocytes B s’appelle la réaction immunitaire à médiation humorale. Cette réaction adaptative est lente et spécifique à un antigène donné.
 
