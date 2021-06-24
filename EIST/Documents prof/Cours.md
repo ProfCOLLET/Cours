@@ -250,3 +250,17 @@ PAUSE : HERBIER
 
 ---
 
+D'apres ce que nous avons vu depuis le début de l'année, quelles sont les conditions indispensable à la vie ? 
+
+---
+
+Mars répond t-elle a ces caractéristiques ? 
+
+--- 
+
+# Leçon 6 : Différences entre les environnements terrestre et martien. 
+
+--- 
+
+
+
