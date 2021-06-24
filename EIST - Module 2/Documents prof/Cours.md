@@ -47,17 +47,17 @@ En groupe de 3
 --- 
 Suite à la sortie, remplissons le tableau : 
 
-\ | Êtres vivants | Minéral | Traces de l'activités humaine | 
---- | --- | --- | ---
-Cours de récréation | | | | 
-Mare | | | |
+| \ | Êtres vivants | Minéral | Traces de l'activités humaine |
+|---|---|---|---|
+| Cours de récréation |  |  |  |  
+| Mare |  |  |  
 
 ---
 
 Bilan : on distingue dans notre environnement 3 composantes :
-– **les êtres vivants et leurs restes** (fourmis, empreintes de pas, pissentilts, plumes)
+– **les êtres vivants et leurs restes** (fourmis, pissentilts, plumes)
 – **la composante minérale**(eau, terre, roche, air)
-– **les traces de l’activité humaine** (bâtiments, routes, voiture…)
+– **les traces de l’activité humaine** (bâtiments, routes, voiture...)
 
 
 ---
@@ -79,6 +79,8 @@ Nous allons réaliser un herbier de classe, pour la prochaine séance, tout le m
 --- 
 
 Pour reconnaitre les plantes, nous utiliseront l'application PlantNet. 
+
+Mais avant de faire l'herbier, il faut faire secher les plantes. 
 
 --- 
 
@@ -136,13 +138,27 @@ Afin de mieux comprendre les plantes et les êtres vivants, nous allons les rega
 
 [Lien pour animation](https://www.pedagogie.ac-nantes.fr/html/peda/svt/microscope/page1.html)
 
+---
+
 <iframe width="1100" height="800" src="https://www.youtube.com/embed/NQ99dVXP9Is" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Bilan
+
+Le microscope est un **instrument** permettant de **grossir** l’image d’un échantillon mince traversé par la lumière.
+
 
 ---
 
 ## Faire un dessin d'observation
 
 ![](./../Ressources/dessin%20obs.png)
+
+
+---
+
+Réaliser un modèle **(nb Prof d'SVT: à fournir)**
 
 ---
 
@@ -156,3 +172,54 @@ Voir TP
 
 --- 
 
+## Bilan
+
+Les cellules sont délimitées par une **membrane plasmique**, elles sont remplies par le **cytoplasme** (liquide transparent),elles contiennent un **noyau** (élément arrondi et plus sombre situé dans la cellule). 
+
+Certains êtres vivant sont composés d'une seule cellule, ce sont les **unicellulaires**.
+
+D'autres êtres vivants sont composés de plussieurs cellules, ce sont les **multicellulaires**, ou **pluricellulaires**. 
+
+---
+
+# Leçon 4 : Les grandes catactéristiques de la Terre. 
+
+---
+
+[https://www.pedagogie.ac-nice.fr/svt/productions/systeme-solaire/](Aperçu du système solaire)
+
+---
+
+La **Terre** tourne autour de son **étoile**, le **Soleil**.  Elle tourne sur elle-même en **24 h**, c’est ce qu’on appelle : une **journée**.
+
+Elle tourne autour du soleil en **365,25 jours**. 
+
+C'est la **seule** planète du systeme solaire sur laquelle il y a de l'eau, sous ses 3 formes, **Liquide, Gazeuse, Solide.** 
+
+--- 
+
+![bg fit](../Ressources/phase.gif)
+
+---
+
+Comparons La Terre, Vénus et Mars. 
+
+> Tableau
+
+--- 
+
+## Bilan
+
+Chaque planète a des caractéristiques qui lui sont propres, la **température** n'est pas la même, les gaz dans l'**atmosphère** ne sont pas les mêmes. 
+
+La Terre est la seule planète à notre **connaissances**, sur laquelle **la vie est possible** car la Terre se trouve dans la zone d'habitabilité du Soleil, ni trop proche, ni trop loin. 
+
+
+---
+
+
+![bg fit](../Ressources/habi.jpg)
+
+---
+
+# Leçon 5 : Mars, planète habitable ? 
