@@ -222,4 +222,31 @@ La Terre est la seule planète à notre **connaissances**, sur laquelle **la vie
 
 ---
 
+PAUSE : HERBIER
+
+---
+
 # Leçon 5 : Mars, planète habitable ? 
+
+---
+
+![bg fit](../Ressources/mars1.jpg)
+
+---
+
+![bg fit](../Ressources/mars2.jpg)
+
+---
+
+![bg fit](../Ressources/mars3.jpg)
+
+--- 
+
+![bg fit](../Ressources/mars4.jpg)
+
+---
+
+![bg fit](../Ressources/mars5.png)
+
+---
+
