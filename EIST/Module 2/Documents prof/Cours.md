@@ -131,7 +131,11 @@ Afin de mieux comprendre les plantes et les êtres vivants, nous allons les rega
 
 <u>source lumineuse :</u> afin d'observer à travers la lame mince, il faut obligatoirement une source lumineuse. 
 
+
+Rajouter loupe bino. 
+
 ---
+
 ## Se servir du microscope
 
 --- 
@@ -264,6 +268,7 @@ Mars répond t-elle a ces caractéristiques ?
 
 Exercice Bilan
 
-
 ---
+
+Carte mentale vivant / objet technique / physique 
 
