@@ -6,20 +6,11 @@
     * trop de départ pour le privé
 * Conséquences : sous services
 
+## A faire
+
 * Implication des anciens élèves
 * FCPE
 
-## Négatif : (retours parents)
-
-évaluation par couleur mal vu
--> Faire 1 eval / trimestre chiffré ? (ou transformer compétence en note ?)
-
-absentéisme
-
-réputation passée
-
-
-**Refaire une information pour les compétences (flyer)**
 
 ## Site
 
@@ -56,21 +47,25 @@ www.lpdj.fr ? prévoir url plus simple et courte.
 
 Format ? Droits à l'image ? 
 Youtube ? 
+
 Capsules vidéos temps forts. (Club, demande APE M DESPLANQUES) + publi sur fil d'actu et site : 2 fois par mois
+
 Capsules avec les anciens élèves
 Capsules avec les profs ? 
-**Lien avec communication interne (tableau / calendrier salle des profs pour annoncer nos trucs)**  
+
+**Lien avec communication interne (tableau / calendrier salle des profs pour annoncer nos trucs) +  agenda pronote**  
 
 ## Communication aux familles
 
-Messagerie Pronote pour messages d'infos
-Site + Fil d'actu pour actions / projets / trucs importants
-Creer un compte parent et élève bidon pour test fil d'actu. 
+Messagerie Pronote ou ENT pour messages d'infos, mais tout mettre au même endroit. 
+
+Site + Fil d'actu pour actions / projets / choses importants
+
+Creer un compte parent et élève  pour test fil d'actu. 
 
 ## Coût horaire
 
 Prévoir 2 concertations pour plaquette et Teaser. 
-
 
 ## Coût
 
@@ -79,3 +74,13 @@ Devis chez *Alphagraph* pour plaquette de présentation du collège à destinati
 FSE, crédits péda, Mairie, Collège, Département ? 
 
 
+## Retours 3 parents
+
+évaluation par couleurs mal vu
+
+absentéisme
+
+réputation passée
+
+
+**Refaire une information pour les compétences (flyer)**
