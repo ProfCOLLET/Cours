@@ -1,5 +1,5 @@
 # Sommaire du cours de 3e
 
-* à venir
+* [Leçon 1](../L1.hmt)
 
 [Accueil](../index.md)
