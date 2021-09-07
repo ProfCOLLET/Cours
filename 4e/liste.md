@@ -4,6 +4,7 @@
 ## Géologie
 
 * [Leçon 1](L1.html)
+* [Leçon 2](L2.html)
 
 ## Reproduction
 
