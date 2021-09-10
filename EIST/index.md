@@ -1,19 +1,4 @@
----
-marp: true
-theme: uncover
-size: 16:9
----
-<!-- paginate: true -->
-# Cours d'EIST
+# Liste des cours
 
-*Collège Le Point du Jour*
-
-**Aucune reproduction**
-
-Mme LERDU
-Mme MALNATI
-M BINET
-M COLLET
-
-
----
+[Chapitre 1]()
+[Chapitre 2](Chapitre%202/Chap2.html)
