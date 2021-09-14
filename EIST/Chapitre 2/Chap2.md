@@ -156,4 +156,7 @@ Elle indique à l’ordinateur le nom du logiciel.
 
 ## 4. Le robot perdu
 
+---
+
+[Retour à la liste des leçons](../index.md)
 
