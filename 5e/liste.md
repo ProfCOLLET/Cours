@@ -1,4 +1,4 @@
-# Sommaire du cours de 3e
+# Sommaire du cours de 5e
 
 ## Planète Terre
 
