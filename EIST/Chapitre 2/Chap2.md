@@ -158,5 +158,5 @@ Elle indique à l’ordinateur le nom du logiciel.
 
 ---
 
-[Retour à la liste des leçons](../index.md)
+[Retour à la liste des leçons](../index.html)
 

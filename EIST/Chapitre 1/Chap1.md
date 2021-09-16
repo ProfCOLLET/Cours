@@ -246,7 +246,7 @@ La communication se fait selon le schéma suivant :
 
 ---
 
-[Retour à la liste des leçons](../index.md)
+[Retour à la liste des leçons](../index.html)
 
 
 
