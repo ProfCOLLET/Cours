@@ -8,7 +8,7 @@ Questions 5 min **maximum**
 
 | | NA | ECA | A | E |
 |---|---|---|---|---|
-| Temps 5 min | | | | | 
+| Temps 5 min (± 30s)| | | | | 
 | Maitrise scientifique du sujet | | | | |
 | Oral clair | | | | |  
 | Présentation (Diaporama , images...) | | | | | 
@@ -23,7 +23,7 @@ Questions 10 min **maximum**
 
 | | NA | ECA | A | E |
 |---|---|---|---|---|
-| Temps 5 min | | | | | 
+| Temps 10 min (±1 min)| | | | | 
 | Maitrise scientifique du sujet | | | | |
 | Oral clair | | | | |  
 | Présentation (Diaporama , images...) (50%) | | | | | 

@@ -154,7 +154,11 @@ Elle indique à l’ordinateur le nom du logiciel.
 
 ---
 
-## 4. Le robot perdu
+## 4. Le trésor perdu
+
+---
+
+[Cliquez ici pour faire la chasse au trésor](https://view.genial.ly/6140fc55682cd20debe71e4d/interactive-content-treasure-map)
 
 ---
 
