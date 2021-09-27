@@ -162,5 +162,13 @@ Elle indique à l’ordinateur le nom du logiciel.
 
 ---
 
+![bg fit](9.jpg)
+
+---
+
+[Lien pour fiche périphérique](10.pdf)
+
+---
+
 [Retour à la liste des leçons](../index.html)
 

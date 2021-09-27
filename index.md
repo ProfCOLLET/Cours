@@ -8,6 +8,3 @@
 | [Présentation DDVPT](ddvpt.html) | [EIST](./EIST/index.md) |
 
 
----
-
-# [EIST - La chasse au trésor - Cliquez ici](https://view.genial.ly/6140fc55682cd20debe71e4d/interactive-content-treasure-map)
