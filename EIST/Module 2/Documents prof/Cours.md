@@ -50,7 +50,16 @@ Suite à la sortie, remplissons le tableau :
 | \ | Êtres vivants | Minéral | Traces de l'activités humaine |
 |---|---|---|---|
 | Cours de récréation |  |  |  |  
-| Mare |  |  |  
+| Mare |  |  |  |
+
+---
+Exemples : 
+
+| \ | Êtres vivants | Minéral | Traces de l'activités humaine |
+|---|---|---|---|
+| Cours de récréation | pigeon | gravier | béton |  
+| Mare |  mouche | silex, craie | grillage, voiture |
+
 
 ---
 
@@ -70,6 +79,10 @@ Bilan : on distingue dans notre environnement 3 composantes :
 Fiche : comment faire un herbier
 
 --- 
+
+[Fiche PDF](../Documents%20élèves/ficher%20herbier.pdf)
+
+---
 
 Nous allons réaliser un herbier de classe, pour la prochaine séance, tout le monde va rammener une ou deux feuilles, ou des plantes, des fleurs... 
 
@@ -133,8 +146,6 @@ Afin de mieux comprendre les plantes et les êtres vivants, nous allons les rega
 <u>source lumineuse :</u> afin d'observer à travers la lame mince, il faut obligatoirement une source lumineuse. 
 
 
-Rajouter loupe bino. 
-
 ---
 
 ## Se servir du microscope
@@ -154,6 +165,11 @@ Rajouter loupe bino.
 Le microscope est un **instrument** permettant de **grossir** l’image d’un échantillon mince traversé par la lumière.
 
 
+
+---
+
+![bg fit](./../Ressources/micro2.jpg)
+
 ---
 
 ## Un autre outil d'observation : la loupe binoculaire. 
@@ -161,7 +177,16 @@ Le microscope est un **instrument** permettant de **grossir** l’image d’un �
 
 ---
 
-A faire
+![bg fit](../Ressources/loupebino1.jpg)
+
+---
+
+Une **loupe binoculaire** est un outil permettant de grossir les objets, mais contrairement au microscope, il n'est pas nécessaire que la lumièr tranverse l'objet, il s'agit de regarder la surface de l'objet. 
+
+
+---
+
+![bg fit](./../Ressources/loupebino2.jpeg)
 
 ---
 
@@ -172,12 +197,33 @@ A faire
 
 ---
 
-Réaliser un modèle **(nb Prof d'SVT: à fournir)**
+![bg left fit](../Ressources/DO1.jpg)
+
+Voici à quoi doit ressembler votre feuille à dessin avant de commencer. 
+Il faut prendre une feuille blanche, format A4. 
 
 
 
 ---
 
+![bg right fit](../Ressources/DO2.jpg)
+
+Le cadre extérieur est à faire à 2 cm du bord de la feuille. Le cartouche fait 5 cm de haut, et la case à droite, fait également 5 cm. 
+
+---
+
+![bg left fit](../Ressources/DO3.jpg)
+
+Le dessin se fait au centre de la feuille, sans couleur, uniquement au crayon, les légendes se trouvent au bout de traits horizontaux, qui pointent précisément. 
+
+
+---
+
+![bg right fit](../Ressources/DO4.jpg)
+
+Le titre se met dans le cartouche en bas de la feuille, la case de droite permet d'y mettre des informations sur l'observation, comme la coloration, le grossissement... 
+
+---
 # Chapitre 6 : La cellule
 
 ---
@@ -202,7 +248,7 @@ D'autres êtres vivants sont composés de plussieurs cellules, ce sont les **mul
 
 ---
 
-[https://www.pedagogie.ac-nice.fr/svt/productions/systeme-solaire/](Aperçu du système solaire)
+[Aperçu du système solaire](https://www.pedagogie.ac-nice.fr/svt/productions/systeme-solaire/)
 
 ---
 
@@ -284,3 +330,5 @@ Exercice Bilan
 
 Carte mentale vivant / objet technique / physique 
 
+
+---
