@@ -14,7 +14,7 @@ size: 16:9
 
 ---
 
-# Leçon 1 : Tour d'horizon de la Terre
+# Chapitre 4 : Tour d'horizon de la Terre
 
 ---
 
@@ -84,7 +84,7 @@ Mais avant de faire l'herbier, il faut faire secher les plantes.
 
 --- 
 
-# Leçon 2 : Les plantes
+# Chapitre 5 : Les plantes
 
 ---
 
@@ -99,6 +99,7 @@ Afin de mieux comprendre les plantes et les êtres vivants, nous allons les rega
 ## Le microcope
 
 --- 
+
 ### Découvrons le microscope
 
 ---
@@ -155,6 +156,15 @@ Le microscope est un **instrument** permettant de **grossir** l’image d’un �
 
 ---
 
+## Un autre outil d'observation : la loupe binoculaire. 
+
+
+---
+
+A faire
+
+---
+
 ## Faire un dessin d'observation
 
 ![](./../Ressources/dessin%20obs.png)
@@ -164,9 +174,11 @@ Le microscope est un **instrument** permettant de **grossir** l’image d’un �
 
 Réaliser un modèle **(nb Prof d'SVT: à fournir)**
 
+
+
 ---
 
-# Leçon 3 : La cellule
+# Chapitre 6 : La cellule
 
 ---
 
@@ -186,7 +198,7 @@ D'autres êtres vivants sont composés de plussieurs cellules, ce sont les **mul
 
 ---
 
-# Leçon 4 : Les grandes catactéristiques de la Terre. 
+# Chapitre 7 : Les grandes catactéristiques de la Terre. 
 
 ---
 
@@ -230,7 +242,7 @@ PAUSE : HERBIER
 
 ---
 
-# Leçon 5 : Mars, planète habitable ? 
+# Chapitre 8 : Mars, planète habitable ? 
 
 ---
 
@@ -262,7 +274,7 @@ Mars répond t-elle a ces caractéristiques ?
 
 --- 
 
-# Leçon 6 : Différences entre les environnements terrestre et martien. 
+# Chapitre 9 : Différences entre les environnements terrestre et martien. 
 
 --- 
 
