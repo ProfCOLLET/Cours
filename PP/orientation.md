@@ -13,7 +13,7 @@ Liste des élèves et orientation
 | Sarah | Prof Fr |-|-|-|-|
 | Xavier | 2GT |-|-|-|-|
 | Isabelle | 2GT / Méca |-|-|-|-|
-| Mathilde | ONF |-|-|-|-|
+| Mathilde | ONF (Pro) GMNF|-|-|-|-|
 | Flore | Animalier |-|-|-|-|
 | Timéo | Méca |-|-|-|-|
 | Florentin | Armée Terre |-|-|-|-|
