@@ -10,40 +10,6 @@ Cours en ligne, version Markdown
 COLLET - Pas de reproduction sans mon accord
 ![bg opacity](Ressources/Photos/You-dont-typically-see-this-part-of-earth.jpg)
 
-
----
-
-Ce cours est en évolution permanante, selon ce que je trouve, ce que je rajoute, des noueautés Markdown que je découvre... 
-
----
-
-www.profcollet.fr
-
----
-# Thème : Géologie
----
-# Leçon 1 : A venir... 
-
----
-# Leçon 2 : A venir...
-
----
-
-# Leçon 3 : A venir...
-
----
-
-# Leçon 4 : A venir...
-
----
-
-# Leçon 5 : A venir...
-
----
-
-# Leçon 6 : A venir...
-
-
 ---
 
 # Thème : Reproduction
@@ -60,16 +26,16 @@ Faire un schéma d'un sexe feminin et d'un sexe masculin en vue extérieure.
 
 ---
 
-![bg contain](Ressources/Photos/image058.jpg)
+![bg contain](../Ressources/Photos/image058.jpg)
 
 ---
 
-![bg contain](Ressources/Photos/appareil%20fem.jpg)
+![bg contain](../Ressources/Photos/appareil%20fem.jpg)
 
   
 ---
 
-![bg contain](Ressources/Photos/appareil-genital-masculin.gif)
+![bg contain](../Ressources/Photos/appareil-genital-masculin.gif)
 
  
 ---
@@ -149,10 +115,10 @@ A l’aide des documents pages 170 à 173, **présentez dans un tableau les diff
 
 ---
 
-![bg contain](Ressources/Photos/Capture%20d%E2%80%99e%CC%81cran%202021-03-11%20a%CC%80%2009.23.22.png)
+![bg contain](../Ressources/Photos/Capture%20d%E2%80%99e%CC%81cran%202021-03-11%20a%CC%80%2009.23.22.png)
 
 ---
-![bg contain](Ressources/Photos/Capture%20d%E2%80%99e%CC%81cran%202021-03-11%20a%CC%80%2009.22.36.png)
+![bg contain](../Ressources/Photos/Capture%20d%E2%80%99e%CC%81cran%202021-03-11%20a%CC%80%2009.22.36.png)
 
 
 
@@ -183,7 +149,7 @@ Puis le cycle recommence.
 
 ---
 
-![bg contain](Ressources/Mermaid/proiepredateurcycle.svg)
+![bg contain](../Ressources/Mermaid/proiepredateurcycle.svg)
 
 
 

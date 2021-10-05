@@ -14,7 +14,7 @@ size: 16:9
 
 ---
 
-# Chapitre 4 : Tour d'horizon de la Terre
+# Chapitre 6 : Tour d'horizon de la Terre
 
 ---
 
@@ -26,7 +26,7 @@ size: 16:9
 
 --- 
 
-Esseyons ensemble de contruire la définition d'être vivant. 
+Essayons ensemble de construire la définition d'être vivant. 
 
 ---
 
@@ -64,7 +64,7 @@ Exemples :
 ---
 
 Bilan : on distingue dans notre environnement 3 composantes :
-– **les êtres vivants et leurs restes** (fourmis, pissentilts, plumes)
+– **les êtres vivants et leurs restes** (fourmis, pissenlits, plumes)
 – **la composante minérale**(eau, terre, roche, air)
 – **les traces de l’activité humaine** (bâtiments, routes, voiture...)
 
@@ -84,7 +84,7 @@ Fiche : comment faire un herbier
 
 ---
 
-Nous allons réaliser un herbier de classe, pour la prochaine séance, tout le monde va rammener une ou deux feuilles, ou des plantes, des fleurs... 
+Nous allons réaliser un herbier de classe, pour la prochaine séance, tout le monde va ramener une ou deux feuilles, ou des plantes, des fleurs... 
 
 > Attention, on ne prend pas des feuilles ou des fleurs sans demander la permission aux propriétaires des plantes (parents, mairie, collège...)
 
@@ -93,11 +93,11 @@ Nous allons réaliser un herbier de classe, pour la prochaine séance, tout le m
 
 Pour reconnaitre les plantes, nous utiliseront l'application PlantNet. 
 
-Mais avant de faire l'herbier, il faut faire secher les plantes. 
+Mais avant de faire l'herbier, il faut faire sécher les plantes. 
 
 --- 
 
-# Chapitre 5 : Les plantes
+# Chapitre 7 : Les plantes
 
 ---
 
@@ -109,7 +109,7 @@ Afin de mieux comprendre les plantes et les êtres vivants, nous allons les rega
 
 --- 
 
-## Le microcope
+## Le microscope
 
 --- 
 
@@ -124,9 +124,9 @@ Afin de mieux comprendre les plantes et les êtres vivants, nous allons les rega
 
 ### Définitions
 
-<u>oculaire : </u> C'est une lentille grossisante, c'est l'endroit où l'on regarde, il n'est pas necessaire de poser l'oeil dessus. 
+<u>oculaire : </u> C'est une lentille grossissante, c'est l'endroit où l'on regarde, il n'est pas nécessaire de poser l'oeil dessus. 
 
-<u>tourelle  : </u> c'est un revolver qui tourne, ce qui permet me mettre plusieurs objectifs, pour grossir plus ou moin. 
+<u>tourelle  : </u> c'est un revolver qui tourne, ce qui permet me mettre plusieurs objectifs, pour grossir plus ou moins. 
 
 
 <u>objectif :</u>  c'est une lentille grossissante
@@ -138,9 +138,9 @@ Afin de mieux comprendre les plantes et les êtres vivants, nous allons les rega
 
 <u>diaphragme :</u> permet de faire passer plus ou moins de lumière
 
-<u>vis macrométrique :</u> vis permettant de farie monter ou descendre la platine grossièrement, cm par cm.
+<u>vis macrométrique :</u> vis permettant de faire monter ou descendre la platine grossièrement, cm par cm.
 
-<u>vis micrométrique :</u>  vis permettant de faire monter ou descendre precisement la platine, mm par mm. 
+<u>vis micrométrique :</u>  vis permettant de faire monter ou descendre précisément la platine, mm par mm. 
 
 
 <u>source lumineuse :</u> afin d'observer à travers la lame mince, il faut obligatoirement une source lumineuse. 
@@ -181,7 +181,7 @@ Le microscope est un **instrument** permettant de **grossir** l’image d’un �
 
 ---
 
-Une **loupe binoculaire** est un outil permettant de grossir les objets, mais contrairement au microscope, il n'est pas nécessaire que la lumièr tranverse l'objet, il s'agit de regarder la surface de l'objet. 
+Une **loupe binoculaire** est un outil permettant de grossir les objets, mais contrairement au microscope, il n'est pas nécessaire que la lumière traverse l'objet, il s'agit de regarder la surface de l'objet. 
 
 
 ---
@@ -224,7 +224,7 @@ Le dessin se fait au centre de la feuille, sans couleur, uniquement au crayon, l
 Le titre se met dans le cartouche en bas de la feuille, la case de droite permet d'y mettre des informations sur l'observation, comme la coloration, le grossissement... 
 
 ---
-# Chapitre 6 : La cellule
+# Chapitre 8 : La cellule
 
 ---
 
@@ -240,11 +240,11 @@ Les cellules sont délimitées par une **membrane plasmique**, elles sont rempli
 
 Certains êtres vivant sont composés d'une seule cellule, ce sont les **unicellulaires**.
 
-D'autres êtres vivants sont composés de plussieurs cellules, ce sont les **multicellulaires**, ou **pluricellulaires**. 
+D'autres êtres vivants sont composés de plusieurs cellules, ce sont les **multicellulaires**, ou **pluricellulaires**. 
 
 ---
 
-# Chapitre 7 : Les grandes catactéristiques de la Terre. 
+# Chapitre 9 : Les grandes caractéristiques de la Terre. 
 
 ---
 
@@ -256,7 +256,7 @@ La **Terre** tourne autour de son **étoile**, le **Soleil**.  Elle tourne sur e
 
 Elle tourne autour du soleil en **365,25 jours**. 
 
-C'est la **seule** planète du systeme solaire sur laquelle il y a de l'eau, sous ses 3 formes, **Liquide, Gazeuse, Solide.** 
+C'est la **seule** planète du système solaire sur laquelle il y a de l'eau, sous ses 3 formes, **Liquide, Gazeuse, Solide.** 
 
 --- 
 
@@ -288,7 +288,7 @@ PAUSE : HERBIER
 
 ---
 
-# Chapitre 8 : Mars, planète habitable ? 
+# Chapitre 10 : Mars, planète habitable ? 
 
 ---
 
@@ -312,7 +312,7 @@ PAUSE : HERBIER
 
 ---
 
-D'apres ce que nous avons vu depuis le début de l'année, quelles sont les conditions indispensable à la vie ? 
+D'après ce que nous avons vu depuis le début de l'année, quelles sont les conditions indispensable à la vie ? 
 
 ---
 
@@ -320,7 +320,7 @@ Mars répond t-elle a ces caractéristiques ?
 
 --- 
 
-# Chapitre 9 : Différences entre les environnements terrestre et martien. 
+# Chapitre 11 : Différences entre les environnements terrestre et martien. 
 
 --- 
 
