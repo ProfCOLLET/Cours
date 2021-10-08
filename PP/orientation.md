@@ -11,12 +11,12 @@ Liste des élèves et orientation
 | Maty | Soigneur animalier |-|-|-|-|
 | Louane | Esthétique , chevaux |-|-|-|-|
 | Sarah | Prof Fr |-|-|-|-|
-| Xavier | 2GT |-|-|-|-|
+| Xavier | 2GT? |-|-|-|-|
 | Isabelle | 2GT / Méca |-|-|-|-|
 | Mathilde | ONF (Pro) GMNF|-|-|-|-|
 | Flore | Animalier |-|-|-|-|
 | Timéo | Méca |-|-|-|-|
-| Florentin | Armée Terre |-|-|-|-|
+| Florentin | Armée |-|-|-|-|
 | Loghan | Meca / electricien |-|-|-|-|
 | Tom | Pro ? |-|-|-|-|
 | Mathias | Espace vert ? |-|-|-|-|

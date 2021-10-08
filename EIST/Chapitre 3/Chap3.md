@@ -64,9 +64,12 @@ N’y a-t-il que la Terre qui tourne autour du Soleil ?
 
 ---
 
-<iframe width="1100" height="800" src="https://www.youtube.com/embed/sXxqmUk7hSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video controls width=1100 height=800>
+<source src="enigme5.mp4" type="video/mp4">
+</video>
 
 ---
+
 ![bg fit](6.png)
 
 ---
