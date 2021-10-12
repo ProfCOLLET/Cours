@@ -133,7 +133,7 @@ Le système solaire est constitué :
 - du **Soleil**
 - de nombreux autres **astres** qui tournent autour du Soleil.
 
-Une **étoile** est un astre sui produit de la lumière. Le Soleil est une étoile. C’est l’astre le plus gros du système solaire.
+Une **étoile** est un astre qui produit de la lumière. Le Soleil est une étoile. C’est l’astre le plus gros du système solaire.
 
 ---
 

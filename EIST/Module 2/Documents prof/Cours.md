@@ -328,7 +328,6 @@ Exercice Bilan
 
 ---
 
-Carte mentale vivant / objet technique / physique 
-
+![fit bg](carte%20mentale%20bilan.svg)
 
 ---
