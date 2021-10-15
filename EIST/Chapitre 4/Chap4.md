@@ -21,7 +21,7 @@ M COLLET
 
 ---
 
-# Chapitre 4 : La planète Terre dans le système solaire  ?
+# Chapitre 4 : Comment réaliser un modèle à l’échelle du système solaire ?  ?
 
 ---
 
