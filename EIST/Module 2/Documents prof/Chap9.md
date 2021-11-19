@@ -19,11 +19,13 @@ M COLLET
 ---
 
 # Module 2
+![bg opacity](../../../Ressources/Photos/terre.jpg)
 
 ---
 
 
 # Existe-t-il des différences entre les environnements terrestre et martien ?
+![bg opacity](../../../Ressources/Photos/mars.jpg)
 
 
 ---
