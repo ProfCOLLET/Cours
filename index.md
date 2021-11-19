@@ -24,5 +24,7 @@
 # Les petits outils 
 
 - [Faire une carte mentale en ligne](https://apps.profcollet.fr/cartementale/)
+  
+- [Faire des schémas et diagrammes en ligne](https://apps.profcollet.fr/diagram/)
 
 
