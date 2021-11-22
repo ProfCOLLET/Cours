@@ -27,4 +27,5 @@
   
 - [Faire des schémas et diagrammes en ligne](https://apps.profcollet.fr/diagram/)
 
+- [Générer des QR Code](https://apps.profcollet.fr/qr/)
 
