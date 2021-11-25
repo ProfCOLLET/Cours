@@ -29,3 +29,4 @@
 
 - [Générer des QR Code](https://apps.profcollet.fr/qr/)
 
+- [Besoin de stocker du texte ? ](https://apps.profcollet.fr/bin/)
