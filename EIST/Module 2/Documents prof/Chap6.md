@@ -95,7 +95,7 @@ Fiche : comment faire un herbier
 
 --- 
 
-[Fiche PDF](../Documents%20élèves/ficher%20herbier.pdf)
+[Fiche PDF](../Documents%20élèves/fiche%20herbier.pdf)
 
 ---
 

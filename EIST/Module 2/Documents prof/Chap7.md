@@ -128,6 +128,11 @@ Une **loupe binoculaire** est un outil permettant de grossir les objets, mais co
 ![](./../Ressources/dessin%20obs.png)
 
 
+
+---
+
+[Fiche](../Documents%20élèves/fiche%20dessin.pdf)
+
 ---
 
 ![bg left fit](../Ressources/DO1.jpg)
