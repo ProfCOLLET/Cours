@@ -19,7 +19,9 @@
 
 - [Présentation DDVPT](ddvpt.html) 
 
+# Classe relais
 
+- [Système solaire](./CR/systemesolaire.html)
 
 # Les petits outils 
 
