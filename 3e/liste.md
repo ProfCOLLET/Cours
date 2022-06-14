@@ -7,5 +7,9 @@
 * [Leçon 5 : L’évolution, un phénomène aléatoire très sélectif](L5.html)
 * [Leçon 6 : La cellule](L6.html)
 * [Leçon 7 : Les caractères](L7.html)
+
+* [Leçon 17 : Classification des plantes](L17.html)
+* [Leçon 18 : La cellule végétale](L18.html)
+* [Leçon 19 ; La photosynthèse](L19.html)
   
 [Accueil](../index.md)
