@@ -125,5 +125,5 @@ Le Professeur principal
 
 ---
 
-Pour en savoir plus sur les thèmes proposés, [cliquez ici pour acceder à la présentation des différentes formations](https://view.genial.ly/5f8eb007ed31710d0d03832e). 
+Pour en savoir plus sur les thèmes proposés, [cliquez ici pour accéder à la présentation des différentes formations](https://view.genial.ly/5f8eb007ed31710d0d03832e). 
 
