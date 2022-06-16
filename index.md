@@ -16,7 +16,7 @@
 
 # Sujet DNB corrigé
 
-[Sujet 1](/Sujets%20DNB/Sujet%201/DNB.md)
+[Sujet 1](/Sujets%20DNB/Sujet%201/DNB.html)
 
 * * * 
 
