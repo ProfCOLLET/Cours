@@ -13,9 +13,6 @@
 **Prédateur** : Espèce qui va se nourrir d'un autre animal (Proie)
 
 
-
-
-
 ## Relation entre le Lynx et le lièvre
 
 > On sait que le lynx se nourrit à 95% de lièvres.

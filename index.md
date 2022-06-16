@@ -14,18 +14,7 @@
 
 - [Fiches](./Fiches/index.md) 
 
+* * * 
 
-# Autres 
-
-- [Présentation DDVPT](ddvpt.html) 
-
-
-# Les petits outils 
-
-- [Faire une carte mentale en ligne](https://apps.profcollet.fr/cartementale/)
-  
-- [Faire des schémas et diagrammes en ligne](https://apps.profcollet.fr/diagram/)
-
-- [Générer des QR Code](https://apps.profcollet.fr/qr/)
-
-- [Besoin de stocker du texte ? ](https://apps.profcollet.fr/bin/)
+Une question ? Besoin d'une ressources ? 
+[Envoyez moi un mail à contact@profcollet.fr](mailto:contact@profcollet.fr)

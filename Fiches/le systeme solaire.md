@@ -1,9 +1,7 @@
 # Le système solaire
 
 
-Images : [Système solaire.pdf](Systemesolaire.pdf) 
-
-# Le Soleil
+## Le Soleil
 
 Le Soleil est l’étoile du Système solaire. Dans la classification astronomique, c’est une étoile de type **naine jaune**. 
 Autour de lui gravitent la Terre (à la vitesse de 30 km/s), **sept** autres planètes, au moins **cinq planètes naines**, de très nombreux **astéroïdes** et **comètes**. 
@@ -14,7 +12,7 @@ Le Soleil représente à lui seul environ **99,8 %** de la masse du Système sol
 
 1 UA : Distance Terre- Soleil, soir 150 000 000 km. 
 
-# Mercure
+## Mercure
 
 Mercure est la planète la plus proche du Soleil et la moins massive du Système solaire.
 
@@ -23,7 +21,7 @@ Elle est visible à l'œil nu depuis la Terre.
 
 ![](https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/e/d/f/edf75f57d9_82666_mercureok.jpg)
 
-# Vénus
+## Vénus
 
 La distance de Vénus au Soleil est comprise entre **0,718 et 0,728 UA**, avec une période orbitale de 224,7 jours.
 Vénus est une planète tellurique, comme le sont également Mercure, la Terre et Mars. 
@@ -46,7 +44,7 @@ Compte tenu de sa composition et de sa structure, **cette atmosphère génère u
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e5/Venus-real_color.jpg)
 
-# Terre 
+## Terre 
 
 La Terre s'est formée il y a **4,54 milliards d'années environ** et la vie y est apparue moins d'un milliard d'années plus tard.
 
@@ -60,7 +58,7 @@ Le seul satellite naturel connu de la Terre est la Lune qui commença à orbiter
 
 ![](https://cdn.futura-sciences.com/buildsv6/images/mediumoriginal/6/0/4/604437a5eb_75258_terre-complete-dscovr-epicfirstlight-dsc-20151806.jpg)
 
-## Lune
+### Lune
 
 La Lune est un objet céleste qui orbite autour de la planète Terre et le seul satellite naturel permanent de la Terre.
 
@@ -72,7 +70,7 @@ La Lune est en rotation synchrone avec la Terre, et montre donc toujours la mêm
 
 ![](https://www.sciencesetavenir.fr/assets/img/2018/03/08/cover-r4x3w1000-5aa14946543df-blue-moon.jpg)
 
-# Mars 
+## Mars 
 
 Mars est la quatrième planète par ordre de distance croissante au Soleil.
 Son éloignement au Soleil est de **1,52 UA** avec une période orbitale de **686,71 jours** terrestres.
@@ -88,19 +86,19 @@ Mars a toujours été caractérisée visuellement par sa couleur **rouge**, due 
 
 ![](https://www.stelvision.com/astro/wp-content/uploads/2018/06/True-colour_image_of_Mars_seen_by_OSIRIS-1.jpg)
 
-## Déimos et Phobos
+### Déimos et Phobos
 
 Ce sont les 2 satellites naturels de Mars. 
 
 ![](http://3.bp.blogspot.com/-i1WfE7--knA/VQ811A-TCXI/AAAAAAAAIoo/DIjcQa1c6U4/s1600/Phobos-Deimos-panel-1024x510.jpg)
 
-# Ceinture d'astéoïdes 
+## Ceinture d'astéoïdes 
 
-## Les astéroïdes
+### Les astéroïdes
 
 La ceinture d'astéroïdes contient plusieurs **centaines de milliers** d'astéroïdes connus, et probablement plusieurs millions, d'une taille allant **du grain de poussière** au **planétoïde de quelques centaines de kilomètres de diamètre**.
 
-## Cérès
+### Cérès
 
 Cérès est **la plus petite planète naine** reconnue du Système solaire ainsi que le plus **gros astéroïde** de la ceinture principale ; c'est d'ailleurs **la seule planète naine** située dans la ceinture d'astéroïdes. 
 
@@ -109,7 +107,7 @@ Avec un diamètre d'environ **950 kilomètres**, Cérès est l'objet le plus gra
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ceres_RC2_Bright_Spot.jpg/290px-Ceres_RC2_Bright_Spot.jpg)
 
 
-# Jupiter
+## Jupiter
 
 Jupiter est une planète géante **gazeuse**. Il s'agit de **la plus grosse** planète du Système solaire, **plus volumineuse et massive que toutes les autres planètes réunies**, et la cinquième planète par sa distance au Soleil.
 
@@ -117,7 +115,7 @@ Jupiter possède 79 satellites naturels confirmés dont 50 nommés. Quatre sont 
 
 ![](https://static.le-systeme-solaire.net/ressources/syssol/jupiter_title.jpg)
 
-## Ganymède
+### Ganymède
 
 Ganymède est un satellite naturel de Jupiter.
 Avec son diamètre de **5 268 kilomètres**, dépassant de 8 % celui de la planète Mercure et de 2 % celui de Titan, la plus grande lune de Saturne, **Ganymède est le plus gros satellite naturel de Jupiter mais également le plus gros de tout le Système solaire**.
@@ -129,7 +127,7 @@ C'est **le seul satellite du Système solaire** connu pour posséder une magnét
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ganymede-moon.jpg/260px-Ganymede-moon.jpg)
 
-## Europe
+### Europe
 
 Europe est un satellite naturel de Jupiter.
 
@@ -144,7 +142,7 @@ De plus, des **geysers** d'eau ont été détectés à sa surface. Ces élément
 ![](https://upload.wikimedia.org/wikipedia/commons/5/54/Europa-moon.jpg)
 
 
-## Callisto
+### Callisto
 
 Callisto est un satellite naturel de la planète Jupiter. 
 Callisto est **le deuxième** plus grand satellite de Jupiter après Ganymède. 
@@ -156,7 +154,7 @@ La surface de Callisto est très cratérisée, extrêmement vieille et ne prése
 
 ![Callisto](https://static.le-systeme-solaire.net/ressources/syssol/callistotitle.jpg)
 
-## Io
+### Io
 
 Io est un des satellites naturels de Jupiter la plus proche de la planète. 
 Io fait le tour de Jupiter en à peu près 40 heures. 
@@ -171,7 +169,7 @@ La surface d'Io est caractérisée par des **plaines recouvertes de soufre et de
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7b/Io_highest_resolution_true_color.jpg)
 
-# Saturne 
+## Saturne 
 
 Saturne est la sixième planète du Système solaire par ordre de distance au Soleil et la deuxième après Jupiter tant par sa taille que par sa masse.
 
@@ -187,7 +185,7 @@ Titan est le plus grand satellite de Saturne et la deuxième plus grande lune du
 
 Plus lointaine des planètes du Système solaire observables à l'œil nu dans le ciel nocturne depuis la Terre.
 
-## Encelade
+### Encelade
 
 Encelade est un satellite naturel de la planète Saturne.
 
@@ -198,7 +196,7 @@ Selon les images de la sonde Cassini, Encelade est recouvert d'une couche aux re
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5f/Enceladusstripes_cassini.jpg)
 
 
-## Titan 
+### Titan 
 
 Titan est le plus grand satellite naturel de Saturne. Avec un diamètre 6 % plus grand que celui de Mercure, Titan est par la taille au deuxième rang des satellites du système solaire, après Ganymède, le plus gros satellite de Jupiter. 
 
@@ -220,7 +218,7 @@ Le satellite est cité comme un possible **hébergeur de vie** extraterrestre mi
 
 
 
-# Uranus
+## Uranus
 
 Uranus est la septième planète du Système solaire par sa distance au Soleil, la troisième par la taille.
 
@@ -233,7 +231,7 @@ Uranus est la planète du Système solaire dont l’atmosphère est la plus froi
 
 ![](https://upload.wikimedia.org/wikipedia/commons/b/bb/Uranus.jpg)
 
-# Neptune
+## Neptune
 
 Neptune est la huitième et dernière planète du Système solaire.
 
@@ -246,7 +244,7 @@ Neptune est le premier objet et **la seule des huit planètes du système solair
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/06/Neptune.jpg)
 
-# Ceinture de Kuiper
+## Ceinture de Kuiper
 
 La ceinture de Kuiper est une zone du Système solaire s'étendant au-delà de l'orbite de Neptune, entre 30 et 55 unités astronomiques (ua). Cette zone en forme d'anneau est similaire à la ceinture d'astéroïdes, **mais plus étendue**, 20 fois plus large et de 20 à 200 fois plus massive. 
 
@@ -256,7 +254,7 @@ Pluton est le plus grand objet connu de la ceinture de Kuiper.
 
 Les objets de la ceinture de Kuiper sont nommés objets transneptuniens.
 
-## Pluton
+### Pluton
 
 Pluton est une **planète naine**, la plus volumineuse connue dans le Système solaire (2 372 km de diamètre, contre 2 326 km pour Éris).
 
@@ -265,7 +263,7 @@ Pluton orbite autour du Soleil à une distance variant entre **30 et 49 unités 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/80/Nh-pluto-in-true-color_2x_JPEG.jpg)
 
-## Eris
+### Eris
 
 Érisest la planète naine connue la plus massive du Système solaire.
 
@@ -275,7 +273,7 @@ Pluton orbite autour du Soleil à une distance variant entre **30 et 49 unités 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Eris_and_dysnomia2.jpg/290px-Eris_and_dysnomia2.jpg)
 
 
-## Sedna
+### Sedna
 
 Sedna est un objet transneptunien du Système solaire d'un diamètre d'environ **1 000 kilomètres**, ce qui en fait un candidat au statut de planète naine.
 En novembre 2013, sa distance au Soleil était d’environ 86,4 unités astronomiques. Cette position, cependant, est près de son périhélie (*zone d el'orbite la plus proche du soleil*) ; son aphélie(*zone la plus éloignée de l'orbite*) de **960 UA** fait de Sedna, pendant la plus grande partie de son orbite, un des objets connus du Système solaire les plus lointains.
@@ -283,5 +281,6 @@ En novembre 2013, sa distance au Soleil était d’environ 86,4 unités astronom
 ![](https://upload.wikimedia.org/wikipedia/commons/9/9a/Nasasedna.jpg)
 
 * * *
+
 Source : Extraits de [Wikipédia](https://www.wikipedia.fr)
 
