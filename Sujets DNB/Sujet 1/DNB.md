@@ -4,7 +4,7 @@
 
 ## Sujet
 
-[Cliquez ici pour télécharger le sujet en pdf.](../Sujet.pdf)
+[Cliquez ici pour télécharger le sujet en pdf.](..//DNB/Sujet.pdf)
 
 
 
