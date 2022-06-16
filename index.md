@@ -20,5 +20,5 @@
 
 * * * 
 
-Une question ? Besoin d'une ressources ? 
+Une question ? Besoin d'une ressource ? 
 [Envoyez moi un mail à contact@profcollet.fr](mailto:contact@profcollet.fr)
