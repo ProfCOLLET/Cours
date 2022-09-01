@@ -8,16 +8,16 @@
 
 [Cours de 5e](./5e/liste.md) 
 
-[EIST (6e)](./EIST/index.md) 
+[EIST - Cours à venir](#) 
 
 # Supports de cours
 
 [Fiches](./Fiches/index.md) 
 
-# Sujet DNB corrigé
+<!-- # Sujet DNB corrigé
 
 [Sujet 1](/Sujets%20DNB/Sujet%201/DNB.html)
-
+-->
 * * * 
 
 Une question ? Besoin d'une ressource ? 
