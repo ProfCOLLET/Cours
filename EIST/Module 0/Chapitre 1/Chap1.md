@@ -54,7 +54,13 @@ C’est un modèle d’enseignement des sciences qui consiste à associer les sc
 
 
 ---
+ 4 h par semaine
 
+- Lundi 9h30 à 10h30 avec **Mr COLLET**
+- Mardi 8h30 à 10h30 avec **Mme LERDU**
+- Vendredi 8h30 à 9h30 avec **Mr COLLET**
+
+---
 
 ## Matériel
 
