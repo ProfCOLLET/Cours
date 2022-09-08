@@ -19,14 +19,6 @@
 
 
 
-
-
-
-
-
-
-
-
 ## Géologie
 
 - [L'impact de Chixulub](chixulub.pdf)
@@ -44,6 +36,17 @@
 - [Les climats de la Terre](climats.pdf)
 - [Météorologie](meteorologie.pdf)
 - [Météo vs Climat](Meteo%20vs%20climat.pdf)
+- [La crise Permo/trias](permotrias.pdf)
+- [Les risques météorologiques](risques%20meteo.pdf)
+- [Les risques sismiques et volcaniques](Risques%20sismiques.pdf)
+- [Les séismes](S%C3%A9ismes.pdf)
+- [Structure de la Terre](Structure%20de%20la%20Terre.pdf)
+- [Tectonique des plaques](Tectonique%20des%20Plaques.pdf)
+- [La Terre](terre.pdf)
+- [Théories de l'évolution](theorie%20de%20levolution.pdf)
+- [Le Volcanisme](Volcanisme.pdf)
+
+
 
 
 
@@ -60,14 +63,6 @@
 
 
 
-[La crise Permo/trias](permotrias.pdf)
-[Les risques météorologiques](risques%20meteo.pdf)
-[Les risques sismiques et volcaniques](Risques%20sismiques.pdf)
-[Les séismes](S%C3%A9ismes.pdf)
-[Structure de la Terre](Structure%20de%20la%20Terre.pdf)
-[Tectonique des plaques](Tectonique%20des%20Plaques.pdf)
-[La Terre](terre.pdf)
-[Théories de l'évolution](theorie%20de%20levolution.pdf)
-[Le Volcanisme](Volcanisme.pdf)
+
 
 
