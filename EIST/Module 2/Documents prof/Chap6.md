@@ -18,7 +18,7 @@ M COLLET
 
 ---
 
-# Module 2
+# Module 
 ![bg opacity](../../../Ressources/Photos/terre.jpg)
 
 ---
@@ -29,7 +29,7 @@ M COLLET
 
 ---
 
-# Chapitre 6 : Tour d'horizon de la Terre
+# Chapitre 3 : Tour d'horizon de la Terre
 
 ---
 
