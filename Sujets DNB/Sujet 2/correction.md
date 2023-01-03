@@ -9,7 +9,7 @@ Le micro-organisme responsable de la transmission de la peste est *Yersinia pest
 ## Question 2 : 
 
 
-D'après le **document 2**, nous pouvons voir que la **bactérie** a une taille d'environ 0,04 mm soit 40 µm grâce à l'échelle de 0,02 présente. Un humain moyen mesure 175 cm, et des poumons humains environ 25 cm. 
+D'après le **document 2**, nous pouvons voir que la **bactérie** a une taille d'environ 0,04 mm soit 40 µm grâce à l'échelle de 0,02 mm présente. Un humain moyen mesure 175 cm, et des poumons humains environ 25 cm. 
 
 Le plus grand est donc l'être humain, puis le poumon humain et enfin le plus petit est la bactérie *Yersinia pestis*. 
 
