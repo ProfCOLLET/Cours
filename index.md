@@ -24,6 +24,7 @@
 - [Générateur QR code](https://apps.profcollet.fr/qr) : générer simplement un QRCode
 - [Open Sondage](https://apps.profcollet.fr/date) : FramaDate
 - [Editeur de texte collaboratif](https://code.profcollet.fr/) 
+- [Scripts générés par IA / tests](Scripts/index.md)
 
 Attention, certains services demandent une création de compte pour être pleinement fonctionnel. 
 
@@ -31,11 +32,10 @@ N'hésitez pas à me contacter
 
 
 
-<!-- # Sujet DNB corrigé
+# Sujet DNB corrigé
 
 [Sujet 1](/Sujets%20DNB/Sujet%201/DNB.html)
--->
-* * * 
+
 
 Une question ? Besoin d'une ressource ? 
 [Envoyez moi un mail à contact@profcollet.fr](mailto:contact@profcollet.fr)
