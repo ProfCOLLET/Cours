@@ -1,0 +1,67 @@
+<html>
+  <head>
+    <title>Convertisseur PDF en Markdown</title>
+  </head>
+  <body>
+    
+    <input type="file" id="inputPdf" accept=".pdf">
+    <button onclick="chargerPdf()">Charger le PDF</button>
+    
+    <script>
+      function chargerPdf() {
+        const inputPdf = document.getElementById('inputPdf');
+        const file = inputPdf.files[0];
+    
+        if (file) {
+          const reader = new FileReader();
+          reader.readAsArrayBuffer(file);
+          reader.onload = function() {
+            docPdfBrut = reader.result;
+          };
+          reader.onerror = function() {
+            console.log('Erreur lors du chargement du fichier');
+          };
+        }
+      }
+
+      const pdfjs = require('pdfjs-dist');
+
+async function analyserPdf() {
+  // Charger le document PDF à partir de la variable docPdfBrut
+  const pdf = await pdfjs.getDocument({ data: docPdfBrut }).promise;
+
+  // Obtenir le nombre de pages du document
+  const nbPages = pdf.numPages;
+
+  // Initialiser la variable markdown qui contiendra le résultat final
+  let markdown = '';
+
+  // Pour chaque page du document...
+  for (let i = 1; i <= nbPages; i++) {
+    // Obtenir le contenu de la page
+    const page = await pdf.getPage(i);
+    const texte = await page.getTextContent();
+
+    // Pour chaque bloc de texte de la page...
+    for (const bloc of texte.items) {
+      // Ajouter le texte au format Markdown
+      markdown += `${bloc.str}\n`;
+    }
+  }
+
+   // Afficher le résultat final dans l'élément textarea
+   const output = document.getElementById('output');
+   output.value = markdown;
+}
+
+analyserPdf();
+
+    </script>
+
+
+    <textarea id="output"></textarea>
+
+  
+
+   </body>
+   </html>
