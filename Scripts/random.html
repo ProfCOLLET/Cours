@@ -1,0 +1,69 @@
+<html>
+<head>
+    <style>
+        body {
+          background-color: #f0f0f0;
+        }
+      
+        h1, h2, h3, h4, h5, h6 {
+          color: #333;
+          font-family: sans-serif;
+          font-weight: bold;
+        }
+      
+        p {
+          color: #333;
+          font-family: sans-serif;
+          font-size: 14px;
+          line-height: 1.5;
+        }
+      
+        pre {
+          background-color: #f8f8f8;
+          border-radius: 3px;
+          font-family: monospace;
+          padding: 16px;
+        }
+      
+        code {
+          color: #c7254e;
+          font-size: 14px;
+        }
+      </style>
+      
+</head>      
+
+<body>
+<button id="run-button">Tirer au sort (entre 1 et 100)</button>
+
+<script>
+  var button = document.getElementById("run-button");
+  button.addEventListener("click", function() {
+    var randomNumber = Math.floor(Math.random() * (100 - 1 + 1)) + 1;
+    alert(randomNumber);
+  });
+</script>
+
+<p>
+Voici le code de cette page : 
+
+<pre>
+    <code>
+      &lt;button id="run-button"&gt;Exécuter&lt;/button&gt;
+  
+      &lt;script&gt;
+        var button = document.getElementById("run-button");
+        button.addEventListener("click", function() {
+          var randomNumber = Math.floor(Math.random() * (100 - 1 + 1)) + 1;
+          alert(randomNumber);
+        });
+      &lt;/script&gt;
+    </code>
+  </pre>
+  
+
+</p>
+
+</body>
+
+</html>
