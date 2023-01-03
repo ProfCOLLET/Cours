@@ -48,11 +48,6 @@
 
 
 
-
-
-
-
-
 ## Méthodologie
 
 - [Construire un tableau](Construire%20un%20tableau.pdf)
