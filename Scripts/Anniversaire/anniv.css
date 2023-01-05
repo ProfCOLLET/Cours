@@ -1,8 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Lato);
-body {
-  background: #ddd;
-}
+
+
+
+
 .box {
+ 
   background: url("http://www.blogduwebdesign.com//assets/fonds/fond_etape.png") no-repeat 55% 0%;
   width: 1000px;
   height: 500px;
@@ -16,7 +18,7 @@ body {
 }
 
 h1 {
-  color: #777777;
+  color: #454545;
   width: 100%;
   text-align: center;
   padding-top: 50px;
@@ -41,6 +43,17 @@ padding: 10px;
   position: relative;
   padding: 10px;
   }
+
+  .imagec {
+    border: white 2px;
+    width: 200px;
+    margin: auto;
+    border-radius: 60%;
+    display: flex;
+    position: relative;
+    padding: 1px;
+    opacity: 1;
+    }
   
   
 
