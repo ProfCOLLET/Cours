@@ -32,4 +32,15 @@ position: relative;
 padding: 10px;
 }
 
+.imageb {
+  border: white 2px;
+  width: 200px;
+  margin: auto;
+  border-radius: 15%;
+  display: flex;
+  position: relative;
+  padding: 10px;
+  }
+  
+  
 
