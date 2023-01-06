@@ -6,10 +6,51 @@
 
 <body>
 
-    <iframe id="hide" width="560" height="315" src="https://www.youtube.com/embed/cPg-0AIalQA?controls=0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <!-- <iframe id="hide" width="560" height="315" src="https://www.youtube.com/embed/cPg-0AIalQA?controls=0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<audio>
+
+<source src="./anniversaire.mp3" autoplay="true">
+
+</audio>
+-->
+<script>
+    window.onload = function() {
+        // Vérifie si le navigateur prend en charge l'API de géolocalisation
+        if ('permissions' in navigator) {
+          // Demande l'autorisation de l'utilisateur pour utiliser l'audio en arrière-plan
+          navigator.permissions.requestPermission({ name: 'audio-capture' }).then(function(permissionStatus) {
+            // Vérifie si l'autorisation a été accordée
+            if (permissionStatus.state === 'granted') {
+              // Crée un élément audio
+              var audioElement = document.createElement('audio');
+              audioElement.setAttribute('src', './anniversaire.mp3');
+              audioElement.setAttribute('autoplay', 'autoplay');
+      
+              // Démarre la lecture lorsque le fichier audio est suffisamment chargé
+              audioElement.addEventListener('canplaythrough', function() {
+                audioElement.play();
+              }, false);
+      
+              // Charge le fichier audio
+              audioElement.load();
+              alert("Bon anniversaire ! ")
+            }
+          });
+        }
+      }
+      
+
+
+</script>
 
     <div class="box">
+    
         <img class="imagec" src="./logo.png">
+        <video class="imageb" autoplay loop muted> 
+            <source type="video/webm" src="./video.webm" >
+
+        </video>
     <h1> Joyeux anniversaire !</h1>
     <img class="image" src="./Anni1.png">
     
