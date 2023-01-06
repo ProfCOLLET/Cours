@@ -3,27 +3,33 @@
     <link rel="stylesheet" href="./anniv.css">
     <script src="https://code.jquery.com/jquery-3.6.3.js"></script>
     <script>
-        window.onload = function() {
-            alert("Prête ? ");
-                  if (confirm("As tu mis du son ?")) {
-                    var audio = document.getElementById("maMusique");
-                    audio.play();
-                  }
-          };
-          
+        
+        function changerClasse() {
+            var element = document.getElementById("js");
+            var element2 = document.getElementById("bouton");
+            var audio = document.getElementById("maMusique");
+            element.className = "nohide";
+            element2.className = "hide";
+            audio.play();
+
+          }  
+        
       </script>
 </head>
 
-<body>
+<body>  
 
-    <!-- <iframe id="hide" width="560" height="315" src="https://www.youtube.com/embed/cPg-0AIalQA?controls=0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    -->
+   
 
 <audio src="./anniversaire.mp3" id="maMusique">
 Pas de lecture audio
 </audio>
 
+<button onclick="changerClasse()" id="bouton" class="none">Prête pour ton anniversaire ?(Pense à mettre le son)</button>
 
+
+<div id="js" class="hide">
+    
     <div class="box">
       
         <img class="imagec" src="./logo.png">
@@ -40,6 +46,7 @@ Pas de lecteur video.
 
     
    
+</div>
 </div>
 </div>
 </body>
