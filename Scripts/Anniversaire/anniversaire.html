@@ -1,7 +1,16 @@
 <html>
 <head>
     <link rel="stylesheet" href="./anniv.css">
-   
+    <script src="https://code.jquery.com/jquery-3.6.3.js"></script>
+    <script>
+        window.onload = function() {
+                  if (confirm("Prête pour ton anniversaire ?")) {
+                    var audio = document.getElementById("maMusique");
+                    audio.play();
+                  }
+          };
+          
+      </script>
 </head>
 
 <body>
@@ -9,13 +18,13 @@
     <!-- <iframe id="hide" width="560" height="315" src="https://www.youtube.com/embed/cPg-0AIalQA?controls=0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     -->
 
-<audio src="./anniversaire.mp3" autoplay loop controls id="hid">
+<audio src="./anniversaire.mp3" id="maMusique">
 Pas de lecture audio
 </audio>
 
 
     <div class="box">
-    
+      
         <img class="imagec" src="./logo.png">
         <video class="imagec" autoplay loop muted> 
             <source type="video/webm" src="./video.webm" >
