@@ -3,13 +3,15 @@
 <head>
   <title>Random JDR</title>
   <link rel="stylesheet" type="text/css" href="style.css">
+  <script src="bdd.js"></script>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="script.js"></script>
 </head>
 <body>
   <h1>Générateur JDR</h1>
   <button onclick="randomJDR()" id="boutton">Lancer</button>
-
-  <p id="resultat"></p>
+<hr>
+  <h1 id="resultatTheme">Le prochain thème sera...</h2>
+  <p id="resultat">Lors de l'action sur le bouton, le script générera un sénario qui s'affichera ici. Attention il n'y a pas de mémoire, donc, pas d'actualisation et pas de second click, il n'y aura pas de retout possible.</p>
 </body>
 </html>
