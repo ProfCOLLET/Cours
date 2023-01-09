@@ -12,7 +12,7 @@ var indexAleatoireL5 = Math.floor(Math.random() * ligne5.length);
 
 // Sélectionner l'entrée au hasard
 var resultatTheme = themes[indexAleatoireTheme];
-var resultat = "<br>" +  ligne1[indexAleatoireL1] + "<br>" + ligne2[indexAleatoireL2] + "<br>" + ligne3[indexAleatoireL3]+ "<br>" + ligne4[indexAleatoireL4]+ "<br>" + ligne5[indexAleatoireL5];
+var resultat = ligne1[indexAleatoireL1] + "<br>" + ligne2[indexAleatoireL2] + "<br>" + ligne3[indexAleatoireL3]+ "<br>" + ligne4[indexAleatoireL4]+ "<br>" + ligne5[indexAleatoireL5];
 
     
       $('#resultat').html(resultat);
