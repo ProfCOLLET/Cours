@@ -14,6 +14,8 @@
 
 [Fiches](./Fiches%20PDF/index.md) 
 
+[Canva - Rejoignez la classe](https://www.canva.com/brand/join?token=Bg_sUP9puFlBVQv5W6vAPw&brandingVariant=edu&referrer=team-invite)
+
 # Outils 
 
 
