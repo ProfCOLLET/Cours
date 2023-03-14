@@ -9,5 +9,5 @@ Le site fait peau neuve, en attendant, l'ancien est toujours disponible [Ici](ht
 
 ---
 
-Pour me joindre : [contact@profcollet.fr](mailto:scontact@profcollet.fr)
+Pour me joindre : [contact@profcollet.fr](mailto:contact@profcollet.fr)
 
