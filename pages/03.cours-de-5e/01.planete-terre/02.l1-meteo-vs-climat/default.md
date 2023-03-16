@@ -6,7 +6,8 @@ title: 'L1 : Météo vs Climat'
 
 ---
 
-![bg](https://photos.lci.fr/images/613/344/20190922-0820-a6cbc4-0@1x.jpeg)
+![witdth=80%](https://photos.lci.fr/images/613/344/20190922-0820-a6cbc4-0@1x.jpeg)
+
 
 ---
 
