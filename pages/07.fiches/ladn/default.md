@@ -1,6 +1,7 @@
 ---
 title: 'L''ADN'
 published: true
+visible: true
 ---
 
 # L'ADN
