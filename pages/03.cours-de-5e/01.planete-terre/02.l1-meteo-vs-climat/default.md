@@ -6,8 +6,7 @@ title: 'L1 : Météo vs Climat'
 
 ---
 
-![witdth=80%](https://photos.lci.fr/images/613/344/20190922-0820-a6cbc4-0@1x.jpeg)
-
+![bg](https://photos.lci.fr/images/613/344/20190922-0820-a6cbc4-0@1x.jpeg)
 
 ---
 
@@ -210,6 +209,6 @@ Il nous donne la luminosité en lux (1 lumen /m2). Un lumen correspond à la lum
 
 ---
 
-![bg](https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/a/0/a/a0a06a6488_50148307_orage-plus-puissant.jpg)
+![](https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/a/0/a/a0a06a6488_50148307_orage-plus-puissant.jpg)
 
 ---
