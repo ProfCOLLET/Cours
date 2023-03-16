@@ -1,9 +1,9 @@
 enabled: true
 folders:
   - pages
-  - config
   - themes
   - plugins
+  - config
   - data
 SyncNotice: null
 sync:
@@ -28,7 +28,7 @@ git:
   author: gituser
   message: '(Grav GitSync) Automatic Commit'
   name: GitSync
-  email: git-sync@trilby.media
+  email: contact@profcollet.fr
   bin: git
   ignore: null
   private_key: null
