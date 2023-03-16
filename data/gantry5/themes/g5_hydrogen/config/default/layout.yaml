@@ -6,8 +6,7 @@ preset:
 layout:
   /header/:
     -
-      - 'logo-4714 30'
-      - 'position-header 70'
+      - search-2484
   /navigation/:
     -
       - menu-6569
@@ -20,11 +19,11 @@ layout:
       - system-content-1752
   /footer/:
     -
-      - position-footer
+      - 'totop-7557 50'
+      - 'position-footer 50'
     -
-      - 'copyright-8557 40'
-      - 'spacer-4961 30'
-      - 'branding-5937 30'
+      - 'copyright-8557 30'
+      - 'spacer-4961 70'
   offcanvas:
     -
       - mobile-menu-2099
@@ -43,15 +42,22 @@ structure:
     attributes:
       boxed: ''
 content:
-  logo-4714:
+  menu-6569:
     attributes:
-      enabled: 0
-  position-header:
-    attributes:
-      key: header
+      renderTitles: '1'
+      hoverExpand: '1'
+      mobileTarget: '1'
   position-breadcrumbs:
     attributes:
       key: breadcrumbs
+  totop-7557:
+    title: 'To Top'
   position-footer:
     attributes:
       key: footer
+  copyright-8557:
+    attributes:
+      date:
+        start: '2013'
+        end: now
+      owner: 'COLLET David'
