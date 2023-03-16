@@ -17,11 +17,11 @@ copyright:
 contact:
   text: null
   email: contact@profcollet.fr
-  phone: '(555) 555-5555'
-  street: '123 Any Street'
-  city: AnyTown
-  state: CA
-  zip: '12345'
+  phone: null
+  street: null
+  city: null
+  state: null
+  zip: null
 social_enabled: false
 custommenu_enabled: false
 custom_logo: {  }
