@@ -1,7 +1,6 @@
 git-sync:
-  state: failure
-  last-run: 1678978804
-  error: "hint: Pulling without specifying how to reconcile divergent branches is\r\nhint: discouraged. You can squelch this message by running one of the following\r\nhint: commands sometime before your next pull:\r\nhint:\r\nhint:   git config pull.rebase false  # merge (the default strategy)\r\nhint:   git config pull.rebase true   # rebase\r\nhint:   git config pull.ff only       # fast-forward only\r\nhint:\r\nhint: You can replace \"git config\" with \"git config --global\" to set a default\r\nhint: preference for all repositories. You can also pass --rebase, --no-rebase,\r\nhint: or --ff-only on the command line to override the configured default per\r\nhint: invocation.\r\nFrom https://github.com/ProfCOLLET/Cours\r\n * branch            main       -> FETCH_HEAD\r\nwarning: fetch updated the current branch head.\r\nfast-forwarding your working tree from\r\ncommit b20b1858d261b9ac07d88f57037a558dc917d058.\r\nerror: Your local changes to the following files would be overwritten by merge:\r\n\tdata/flex/indexes/pages.json\r\nPlease commit your changes or stash them before you merge.\r\nAborting\r\nfatal: Cannot fast-forward your working tree.\r\nAfter making sure that you saved anything precious from\r\n$ git diff b20b1858d261b9ac07d88f57037a558dc917d058\r\noutput, run\r\n$ git reset --hard\r\nto recover."
+  state: success
+  last-run: 1678982405
 default-site-backup:
   state: success
   last-run: 1678932011
