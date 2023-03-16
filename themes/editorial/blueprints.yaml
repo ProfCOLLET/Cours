@@ -1,0 +1,309 @@
+name: Editorial
+slug: editorial
+type: theme
+version: 1.0.6
+description: GravCMS port of the HTML5UP theme Editorial
+icon: rebel
+author:
+  name: Pedro Moreno
+  email: birdydesign@proton.me
+homepage: https://github.com/pmoreno-rodriguez/grav-theme-editorial
+demo: http://editorial.juanvillen.es
+keywords: grav, theme, etc
+bugs: https://github.com/pmoreno-rodriguez/grav-theme-editorial/issues
+readme: https://github.com/pmoreno-rodriguez/grav-theme-editorial/blob/develop/README.md
+license: MIT
+
+dependencies:
+  - { name: grav, version: '>=1.7.0' }
+  - simplesearch
+
+form:
+    validation: loose
+    fields:
+        configOptions.spacer:
+            type: spacer
+            title: EDITORIAL.ADMIN.THEME.THEME_CONFIG
+            underline: false
+        dropdown.enabled:
+            type: toggle
+            label: EDITORIAL.ADMIN.THEME.DROPDOWN_MENU
+            highlight: 1
+            default: 1
+            options:
+                1: PLUGIN_ADMIN.ENABLED
+                0: PLUGIN_ADMIN.DISABLED
+            validate:
+                type: bool    
+        production-mode:
+            type: toggle
+            label: EDITORIAL.ADMIN.THEME.PRODUCTION_MODE
+            help: EDITORIAL.ADMIN.THEME.PRODUCTION_MODE_HELP
+            highlight: 1
+            default: 1
+            options:
+                1: PLUGIN_ADMIN.ENABLED
+                0: PLUGIN_ADMIN.DISABLED
+            validate:
+                type: bool
+        menu_options:
+          type: section 
+          title: EDITORIAL.ADMIN.THEME.MENU.TITLE
+          underline: true
+
+        menu_langswitcher:
+          type: toggle
+          label: EDITORIAL.ADMIN.THEME.MENU.LANGSWITCHER
+          help: EDITORIAL.ADMIN.THEME.MENU.LANGSWITCHER_HELP
+          default: 1
+          highlight: 1
+          options:
+            1: PLUGIN_ADMIN.ENABLED
+            0: PLUGIN_ADMIN.DISABLED
+          validate:
+            type: bool
+        
+        menu_search:
+          type: toggle
+          label: EDITORIAL.ADMIN.THEME.MENU.SEARCH
+          help: EDITORIAL.ADMIN.THEME.MENU.SEARCH_HELP
+          default: 1
+          highlight: 1
+          options:
+            1: PLUGIN_ADMIN.ENABLED
+            0: PLUGIN_ADMIN.DISABLED
+          validate:
+            type: bool
+        
+        menu_login:
+          type: toggle
+          label: EDITORIAL.ADMIN.THEME.MENU.LOGIN
+          help: EDITORIAL.ADMIN.THEME.MENU.LOGIN_HELP
+          default: 1
+          highlight: 1
+          options:
+            1: PLUGIN_ADMIN.ENABLED
+            0: PLUGIN_ADMIN.DISABLED
+          validate:
+            type: bool
+
+        header_section:
+            type: section
+            title: EDITORIAL.ADMIN.THEME.HEADER_OPTIONS
+            underline: true
+        themeSlogan:
+            type: text
+            label: EDITORIAL.ADMIN.THEME.SLOGAN
+            help: EDITORIAL.ADMIN.THEME.SLOGAN_HELP
+        favicon:
+            type: file
+            label: EDITORIAL.ADMIN.THEME.FAVICON
+            description: EDITORIAL.ADMIN.THEME.FAVICON_DESCRIPTION
+            destination: 'theme@:/images'
+            multiple: false
+            avoid_overwriting: false
+            random_name: false
+            toggleable: true
+            filesize: 3
+            accept: ['image/png', '.ico']
+        custom_logo_enabled:
+            type: toggle
+            label: EDITORIAL.ADMIN.THEME.CUSTOM_LOGO.ENABLED
+            highlight: 1
+            default: 1
+            options:
+                1: PLUGIN_ADMIN.ENABLED
+                0: PLUGIN_ADMIN.DISABLED
+            validate:
+                type: bool
+        custom_logo_width:
+            type: number
+            size: small
+            default: 100
+            validate:
+                min: 50
+                max: 150
+            label: EDITORIAL.ADMIN.THEME.CUSTOM_LOGO.WIDTH
+        custom_logo:
+            type: file
+            label: EDITORIAL.ADMIN.THEME.CUSTOM_LOGO.LOGO
+            size: large
+            destination: 'theme://images/logo'
+            multiple: false
+            markdown: true
+            description: EDITORIAL.ADMIN.THEME.CUSTOM_LOGO.DESCRIPTION
+            accept:
+            - image/*
+        custom_logo_mobile:
+            type: file
+            label: EDITORIAL.ADMIN.THEME.CUSTOM_LOGO.MOBILE
+            size: large
+            destination: 'theme://images/logo'
+            multiple: false
+            accept:
+            - image/*
+        
+        blog_section:
+            type: fieldset
+            collapsible: true
+            collapsed: true
+            icon: bold
+            title: EDITORIAL.ADMIN.THEME.BLOG.DEFAULTS
+            fields:
+
+                blog-page:
+                    type: text
+                    label: EDITORIAL.ADMIN.THEME.BLOG.PAGE_LABEL
+                    help: EDITORIAL.ADMIN.THEME.BLOG.PAGE_HELP
+                    size: medium
+                    default: '/blog'
+
+                featured:
+                    type: toggle
+                    label: EDITORIAL.ADMIN.THEME.FEATURED.LABEL
+                    highlight: 1
+                    default: 1
+                    options:
+                        1: PLUGIN_ADMIN.ENABLED
+                        0: PLUGIN_ADMIN.DISABLED
+                    validate:
+                        type: bool
+                featured_tag:
+                    type: text
+                    markdown: true
+                    label: EDITORIAL.ADMIN.THEME.FEATURED.CATEGORY
+                    description: EDITORIAL.ADMIN.THEME.FEATURED.CATEGORY_DESCRIPTION
+                    size: medium
+                    default: 'featured'
+
+                featured_number:
+                    type: range
+                    label: EDITORIAL.ADMIN.THEME.FEATURED.NUMBER
+                    description: EDITORIAL.ADMIN.THEME.FEATURED.NUMBER_DESCRIPTION
+                    default: 3
+                    validate:
+                        min: 1
+                        max: 5
+
+        contact_section:
+            type: fieldset
+            title: EDITORIAL.ADMIN.THEME.CONTACT.INFORMATION_TITLE
+            collapsible: true
+            collapsed: true
+            icon: id-card-o
+            fields:
+                copyright.text:
+                    type: textarea
+                    rows: 2
+                    size: long
+                    label: EDITORIAL.ADMIN.THEME.CONTACT.COPYRIGHT_TEXT
+                    help: EDITORIAL.ADMIN.THEME.CONTACT.COPYRIGHT_TEXT_HELP
+                contact.text:
+                    type: textarea
+                    rows: 3
+                    size: long
+                    label: EDITORIAL.ADMIN.THEME.CONTACT.TEXT
+                contact.email:
+                    label: EDITORIAL.ADMIN.THEME.CONTACT.EMAIL
+                    type: email
+                    default: webmaster@example.com
+                contact.phone:
+                    label: EDITORIAL.ADMIN.THEME.CONTACT.PHONE
+                    type: text
+                    default: (555) 555-5555
+                contact.street:
+                    label: EDITORIAL.ADMIN.THEME.CONTACT.ADDRESS.STREET
+                    type: text
+                    default: 123 Any Street
+                contact.city:
+                    label: EDITORIAL.ADMIN.THEME.CONTACT.ADDRESS.CITY
+                    type: text
+                    default: AnyTown
+                contact.state:
+                    label: EDITORIAL.ADMIN.THEME.CONTACT.ADDRESS.STATE
+                    type: text
+                    default: CA
+                contact.zip:
+                    label: EDITORIAL.ADMIN.THEME.CONTACT.ADDRESS.ZIP
+                    type: text
+                    default: 12345
+
+        social_section:
+            type: fieldset
+            collapsible: true
+            collapsed: true
+            icon: rss
+            title: EDITORIAL.ADMIN.THEME.SOCIAL.TITLE
+            fields:
+                social_enabled:
+                    type: toggle
+                    label: EDITORIAL.ADMIN.THEME.SOCIAL.ENABLED
+                    highlight: 1
+                    default: 1
+                    options:
+                        1: PLUGIN_ADMIN.ENABLED
+                        0: PLUGIN_ADMIN.DISABLED
+                    validate:
+                        type: bool
+                social:
+                    name: social
+                    label: EDITORIAL.ADMIN.THEME.SOCIAL.ICONS
+                    type: list
+                    style: vertical
+                    collapsed: false
+                    max: 5
+                    fields:
+                        .name:
+                            type: text
+                            label: EDITORIAL.ADMIN.THEME.SOCIAL.NAME
+                        .url:
+                            type: text
+                            label: EDITORIAL.ADMIN.THEME.SOCIAL.URL
+                        .icon:
+                            type: iconpicker
+                            label: EDITORIAL.ADMIN.THEME.SOCIAL.ICON
+        custommenu_section:
+            type: fieldset
+            collapsible: true
+            collapsed: true
+            icon: bars
+            title: EDITORIAL.ADMIN.THEME.CUSTOM_MENU.TITLE
+            fields:
+                custommenu_enabled:
+                    type: toggle
+                    label: EDITORIAL.ADMIN.THEME.CUSTOM_MENU.ENABLE
+                    help: EDITORIAL.ADMIN.THEME.CUSTOM_MENU.ENABLE_HELP
+                    default: 0
+                    highlight: 1
+                    options:
+                        1: PLUGIN_ADMIN.ENABLED
+                        0: PLUGIN_ADMIN.DISABLED
+                    validate:
+                        type: bool
+                custommenu:
+                    name: menu
+                    type: list
+                    label: EDITORIAL.ADMIN.THEME.CUSTOM_MENU.LABEL
+                    fields:
+                        .text:
+                            type: text
+                            label: EDITORIAL.ADMIN.THEME.CUSTOM_MENU.ITEM.TEXT
+                            description: EDITORIAL.ADMIN.THEME.CUSTOM_MENU.ITEM.TEXT_DESCRIPTION
+                        .icon:
+                            type: text
+                            label: EDITORIAL.ADMIN.THEME.CUSTOM_MENU.ITEM.ICON
+                            description: EDITORIAL.ADMIN.THEME.CUSTOM_MENU.ITEM.ICON_DESCRIPTION
+                        .url:
+                            type: text
+                            label: EDITORIAL.ADMIN.THEME.CUSTOM_MENU.ITEM.URL
+                            description: EDITORIAL.ADMIN.THEME.CUSTOM_MENU.ITEM.URL_DESCRIPTION
+                        .target:
+                            type: select
+                            label: EDITORIAL.ADMIN.THEME.CUSTOM_MENU.ITEM.TARGET.LABEL
+                            default: _self
+                            size: medium
+                            options:
+                                _blank: EDITORIAL.ADMIN.THEME.CUSTOM_MENU.ITEM.TARGET.BLANK
+                                _parent: EDITORIAL.ADMIN.THEME.CUSTOM_MENU.ITEM.TARGET.PARENT
+                                _self: EDITORIAL.ADMIN.THEME.CUSTOM_MENU.ITEM.TARGET.SELF
+                                _top: EDITORIAL.ADMIN.THEME.CUSTOM_MENU.ITEM.TARGET.TOP
