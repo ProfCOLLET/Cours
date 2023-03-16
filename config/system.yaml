@@ -34,7 +34,7 @@ pages:
   type: regular
   dirs:
     - 'page://'
-  theme: editorial
+  theme: g5_hydrogen
   order:
     by: default
     dir: asc

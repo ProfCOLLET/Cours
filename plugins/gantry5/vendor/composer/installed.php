@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'name' => 'rockettheme/gantry5',
+        'pretty_version' => '5.5.15',
+        'version' => '5.5.15.0',
+        'reference' => '3a0fd8bd20a5d507fe8a5792d33f414e8730aea6',
+        'type' => 'grav-plugin',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => false,
+    ),
+    'versions' => array(
+        'leafo/scssphp' => array(
+            'pretty_version' => 'v0.8.4',
+            'version' => '0.8.4.0',
+            'reference' => 'b9cdea3e42c3bcb1a9faafd04ccce4e8ec860ad9',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../leafo/scssphp',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'rockettheme/gantry5' => array(
+            'pretty_version' => '5.5.15',
+            'version' => '5.5.15.0',
+            'reference' => '3a0fd8bd20a5d507fe8a5792d33f414e8730aea6',
+            'type' => 'grav-plugin',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'scssphp/scssphp' => array(
+            'pretty_version' => 'v1.6.0',
+            'version' => '1.6.0.0',
+            'reference' => 'b83594e2323c5d6e80785df3f91b9d1d32aad530',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../scssphp/scssphp',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);
