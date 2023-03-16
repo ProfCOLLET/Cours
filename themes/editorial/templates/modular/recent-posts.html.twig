@@ -1,0 +1,49 @@
+
+{% set blog = page.find(header_var('blog_url')|defined(theme_var('blog-page'))) %}
+{% set limit = page.header.limit|default(3) %}
+{% set readmore_txt = page.header.readmore_text|raw|default('Read more') %}
+
+<section>
+    <header class="major">
+        <h2>{{ page.title }}</h2>
+        {% if page.header.subtitle %}<p>{{ page.header.subtitle|raw }}</p>{% endif %}
+    </header>
+
+<div class="posts">
+{% for p in blog.children.order('date', 'desc').slice(0,limit) %}
+{% set image = p.media[p.header.featured_image] ?: p.media.images|first %}
+{% set title = p.title %}
+
+    <article class="">
+        {% if image %}
+        <a href="{{p.url}}" class="image">{{ image.cropZoom(416,256).loading('lazy').attribute('width', '300').attribute('height','300').html(title,title,'')|raw }}</a>
+        {% endif %}
+        <h3>{{p.title}}</h3>
+        {% if (page.header.publish_date) %}
+            {% set datestamp = page.header.publish_date %}
+        {% elseif (page.header.date) %}
+            {% set datestamp = page.header.date %}
+        {% else %}
+            {% set datestamp = page.modified %}
+        {% endif %}
+        {% if datestamp %}
+        <p class="data-post">
+            {{'EDITORIAL.ITEM.POSTED_ON'|t}} {{ datestamp|date(system.pages.dateformat.short)  }}
+        </p>
+        {% endif %}
+        <p>
+        {% if p.summary != p.content %}
+            {{ p.summary|striptags('<p>')|raw }}
+        {% else %}
+            {{ p.content|striptags('<p>')|raw }}
+        {% endif %}
+        </p>
+        <ul class="actions">
+            <li><a href="{{p.url}}" class="button">{{readmore_txt}}</a></li>
+        </ul>
+    </article>
+    
+{% endfor %}
+
+    </div>
+</section>
