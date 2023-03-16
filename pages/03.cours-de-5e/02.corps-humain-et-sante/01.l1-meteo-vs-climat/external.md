@@ -1,6 +1,6 @@
 ---
-title: 'L1 : Météo vs Climat'
+title: 'L9 : Quel vision avez-vous du corps humain ? '
 published: true
-external_url: 'https://profcollet.github.io/Cours/5e/L1.html'
+external_url: 'https://profcollet.github.io/Cours/5e/L9.html'
 ---
 
