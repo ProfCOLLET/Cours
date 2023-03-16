@@ -1,0 +1,51 @@
+form:
+  fields:
+  
+    foobar:
+      type: section
+      title: Replace Media
+    
+    rename_file:
+      type: toggle
+      label: Rename file
+      description: Renames the uploaded file to the target file name.  This includes the basename and extension.
+      highlight: 1
+      default: 1
+      options:
+        1: Yes
+        0: No
+      validate:
+        type: bool
+
+    require_image:
+      type: toggle
+      label: Require image
+      description: Require upload to be an image MIME type.
+      highlight: 0
+      default: 0
+      options:
+        1: Yes
+        0: No
+      validate:
+        type: bool
+
+    match_extension:
+      type: toggle
+      label: Match Extension
+      description: Require new file extension to match current file extension.
+      highlight: 0
+      default: 0
+      options:
+        1: Yes
+        0: No
+      validate:
+        type: bool
+                
+    file:
+      type: singlefile
+      label: File
+      description: You can also drop a file on the <em>choose file button</em>.
+
+    spacer:
+      type: spacer
+      text: To bypass this dialog and simply <em>pick and send</em> the file using default values, go to the plugin settings and enable <em>quicksend</em>.

@@ -1,0 +1,14 @@
+version: '1.2'
+timestamp: 1678784211
+count: 2
+index:
+  admin:
+    storage_key: admin
+    storage_timestamp: 1678784038
+    key: admin
+    email: null
+  profcollet:
+    storage_key: profcollet
+    storage_timestamp: 1678784211
+    key: profcollet
+    email: contact@profcollet.fr

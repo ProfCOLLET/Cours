@@ -1,0 +1,22 @@
+<div class="remodal" data-remodal-id="{{remodalId}}" data-remodal-options="hashTracking: false">
+    <form method="post" onsubmit='return false;'>
+        {% for name, field in fields %}
+        {% if field.type %}
+        {% set value = data.value(name) %}
+        <div class="block block-{{field.type}}">
+            {% include ["forms/fields/#{field.type}/#{field.type}.html.twig", 'forms/fields/text/text.html.twig'] %}
+        </div>
+        {% endif %}
+        {% endfor %}
+
+        <div class="form-field grid">{{message}}</div>
+
+        <div class="button-bar">
+            <!--<div class="loading">-->
+            <!--{{ "Moving" }}... <i class="fa fa-spinner fa-spin"></i>-->
+            <!--</div>-->
+            <button class="button" style="visibility: visible" name="cancel">{{ "Cancel" }}</button>
+            <button class="button primary" style="visibility: visible" name="continue">{{ "Continue" }}</button>
+        </div>
+    </form>
+</div>

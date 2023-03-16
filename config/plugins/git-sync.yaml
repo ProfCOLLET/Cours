@@ -1,0 +1,35 @@
+enabled: true
+folders:
+  - pages
+  - config
+  - themes
+  - plugins
+  - data
+SyncNotice: null
+sync:
+  on_save: true
+  on_delete: true
+  on_media: true
+  cron_enable: true
+  cron_at: '0 * * * *'
+local_repository: null
+repository: 'https://github.com/ProfCOLLET/Cours.git'
+no_user: '0'
+user: ProfCOLLET
+password: gitsync-def502003abbdb413fdb7d351a543e6cc3f97be35c1b5b9042ec4b8bf622a76cc9f74e681e790ebc0e5a857503f77f11924ebf67f113b488efb5bdf5d7b56b3c2bd4088564c66ef9fcd28f70f4cabeca1f143eb1dcb392fddb5091ff2e64b988a7fcdb28288b0968d074ecf3047b0cef48a098d47d430ff578288a0dca67edbdaf0d57de6ba236410cecf60c4e89b903251e4a3d28ef83ae922733c6519c7bf17db9c96e37eb6574917f7f4cd02036b063
+webhook: /_git-sync-6612833d57ee
+webhook_enabled: '1'
+webhook_secret: f889b3747788db9917f762bba52fd3b6463c89fe9a00d870
+branch: main
+remote:
+  name: origin
+  branch: main
+git:
+  author: gituser
+  message: '(Grav GitSync) Automatic Commit'
+  name: GitSync
+  email: git-sync@trilby.media
+  bin: git
+  ignore: null
+  private_key: null
+logging: false

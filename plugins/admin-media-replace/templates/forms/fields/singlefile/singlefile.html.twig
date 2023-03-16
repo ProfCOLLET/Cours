@@ -1,0 +1,9 @@
+{% extends "forms/field.html.twig" %}
+
+{% block label %}
+    {{ label ?: "File" }}
+{% endblock %}
+
+{% block input %}
+    <input name="{{ name }}" type="file" style="width: 100%"/>
+{% endblock %}
