@@ -3,8 +3,6 @@ title: Bienvenue
 body_classes: 'title-center title-h1h2'
 ---
 
-# Nouveau site
-
 Bienvenue sur ce nouveau site, propulsé par Grav
 
 ## Technique
