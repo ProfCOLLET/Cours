@@ -43,6 +43,9 @@ structure:
     attributes:
       boxed: ''
 content:
+  logo-4714:
+    attributes:
+      enabled: 0
   position-header:
     attributes:
       key: header
