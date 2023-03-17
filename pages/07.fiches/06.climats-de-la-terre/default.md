@@ -2,8 +2,6 @@
 title: 'Climats de la Terre'
 ---
 
-
-
 # L'évolution du climat au cours du temps 
 
 ## Qu'est ce que le climat ? 
