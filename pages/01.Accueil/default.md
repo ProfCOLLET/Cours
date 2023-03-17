@@ -3,9 +3,7 @@ title: Bienvenue
 body_classes: 'title-center title-h1h2'
 ---
 
-Bienvenue sur ce nouveau site, propulsé par Grav
-
-## Technique
+Bienvenue sur ce nouveau site, propulsé par Grav.
 
 Le site utilise Grav, son contenu est synchronisé par GitHub. 
 Les diaporamas sont réalisés avec Marp, en markdown, avec VS Code.
