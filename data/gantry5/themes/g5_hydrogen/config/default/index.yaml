@@ -1,5 +1,5 @@
 name: default
-timestamp: 1678986388
+timestamp: 1679038326
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
@@ -32,6 +32,8 @@ particles:
     copyright-8557: Copyright
   spacer:
     spacer-4961: Spacer
+  custom:
+    custom-4620: 'Custom HTML'
   mobile-menu:
     mobile-menu-2099: Mobile-menu
 inherit: {  }

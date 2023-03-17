@@ -22,8 +22,9 @@ layout:
       - 'totop-7557 50'
       - 'position-footer 50'
     -
-      - 'copyright-8557 30'
-      - 'spacer-4961 70'
+      - 'copyright-8557 33.3'
+      - 'spacer-4961 33.3'
+      - 'custom-4620 33.3'
   offcanvas:
     -
       - mobile-menu-2099
@@ -61,3 +62,7 @@ content:
         start: '2013'
         end: now
       owner: 'COLLET David'
+  custom-4620:
+    title: 'Custom HTML'
+    attributes:
+      html: '<a href="./admin">Administration</a>'
