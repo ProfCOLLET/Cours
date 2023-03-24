@@ -41,3 +41,5 @@ La culture de la pomme de terre sur Mars pour la colonisation est une question c
 
 
 En conclusion, la culture de la pomme de terre sur Mars pour la colonisation présente des avantages et des défis à relever. Toutefois, avec une planification minutieuse et la mise en place de systèmes de culture adaptés, la culture de la pomme de terre pourrait être une option intéressante pour diversifier l'alimentation des colons sur Mars. Il est important d'envisager également d'autres alternatives pour assurer la sécurité alimentaire des colons sur le long terme.
+
+![](./carte%20mentale.svg)
