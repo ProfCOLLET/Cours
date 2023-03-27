@@ -1,7 +1,6 @@
 git-sync:
-  state: failure
-  last-run: 1679922009
-  error: "remote: fatal error in commit_refs\r\nTo https://github.com/ProfCOLLET/Cours.git\r\n ! [remote rejected] main -> main (failure)\r\nerror: failed to push some refs to 'https://github.com/ProfCOLLET/Cours.git'"
+  state: success
+  last-run: 1679925609
 default-site-backup:
   state: success
   last-run: 1679878814
