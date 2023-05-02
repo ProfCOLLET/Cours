@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
-exclude: ./config
-exclude: ./data
-exclude: ./pages
-exclude: ./plugins
-exclude: ./themes
+exclude: 
+- ./config
+- ./data
+- ./pages
+- ./plugins
+- ./themes
