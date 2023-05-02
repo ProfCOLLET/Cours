@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 exclude: 
-- ./config
-- ./data
-- ./pages
-- ./plugins
-- ./themes
+- config/
+- data/
+- pages/
+- plugins/
+- themes/
