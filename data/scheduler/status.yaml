@@ -1,7 +1,6 @@
 git-sync:
-  state: failure
-  last-run: 1683216007
-  error: "remote: Resolving deltas:   0% (0/3)        \rremote: Resolving deltas:  33% (1/3)        \rremote: Resolving deltas:  66% (2/3)        \rremote: Resolving deltas: 100% (3/3)        \rremote: Resolving deltas: 100% (3/3), completed with 3 local objects.\r\nremote: fatal error in commit_refs\r\nTo https://github.com/ProfCOLLET/Cours.git\r\n ! [remote rejected] main -> main (failure)\r\nerror: failed to push some refs to 'https://github.com/ProfCOLLET/Cours.git'"
+  state: success
+  last-run: 1683219606
 default-site-backup:
   state: success
   last-run: 1683162035
