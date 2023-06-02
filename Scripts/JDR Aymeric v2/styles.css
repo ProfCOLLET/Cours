@@ -1,0 +1,191 @@
+/* Reset des styles par défaut */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Styles généraux */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+    color: #333;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Styles du conteneur d'action */
+  
+  #action-container {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    animation: fade-in 0.8s ease;
+  }
+  
+  @keyframes fade-in {
+    from { opacity: 0; transform: translateY(-20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  #random-action {
+    font-size: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #eaeaea;
+  }
+  
+  #generate-button {
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: #4287f5;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  #generate-button:hover {
+    background-color: #1e5be8;
+  }
+  
+  /* Styles pour les écrans plus petits */
+  @media screen and (max-width: 600px) {
+    h1 {
+      font-size: 24px;
+    }
+  
+    #action-container {
+      padding: 10px;
+    }
+  
+    h2 {
+      font-size: 20px;
+    }
+  
+    #random-action {
+      font-size: 16px;
+      padding: 5px;
+    }
+  
+    #generate-button {
+      font-size: 14px;
+      padding: 8px 16px;
+    }
+  }
+  
+  /* Styles communs pour edit.php et admin.php */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0;
+  color: #333;
+}
+
+form {
+  margin-top: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="password"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+input[type="submit"] {
+  padding: 10px 20px;
+  background-color: #007bff;
+  border: none;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+input[type="submit"]:hover {
+  background-color: #0056b3;
+}
+
+/* Styles spécifiques pour edit.php */
+
+textarea#content {
+  height: 200px;
+}
+
+/* Styles spécifiques pour admin.php */
+
+h2 {
+  margin-top: 40px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Styles spécifiques pour admin.php */
+
+.table-container {
+  display: flex;
+  justify-content: center;
+}
+
+table {
+  margin-top: 20px;
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 600px;
+}
+
+th, td {
+  padding: 8px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+}
