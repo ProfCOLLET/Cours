@@ -43,8 +43,10 @@
   #random-action {
     font-size: 20px;
     margin-bottom: 20px;
+    margin-top: 20px;
     padding: 10px;
-    background-color: #eaeaea;
+    box-shadow: rgb(30, 158, 230) 0px 0px 26px 0px;
+   
   }
   
   #generate-button {
@@ -189,3 +191,41 @@ th, td {
 th {
   background-color: #f2f2f2;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Koulen&family=Lato&family=Nunito&family=Playfair+Display:ital@1&family=Prata&family=Raleway:ital,wght@1,100&family=Roboto&family=Roboto+Condensed&family=Teko&display=swap');
+
+
+button{
+
+  margin:auto;
+}
+.btn{
+
+font-family: Raleway;
+font-weight: 900;
+font-size: 21px;
+color: #fff;
+background-color: #0066CC;
+padding: 10px 45px;
+border: solid #0066cc 3px;
+box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px, rgba(0, 0, 0, 0.1) 0px 2px 4px 0px, rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+border-radius: 20px;
+transition : 719ms;
+transform: translateY(0);
+display: flex;
+flex-direction:row-reverse;
+align-items: center;
+cursor: pointer;
+text-transform: uppercase;
+}
+
+.btn:hover{
+
+transition : 719ms;
+padding: 10px 50px;
+transform : translateY(-10px);
+background-color: #ffffff;
+color: #0066cc;
+border: solid 3px #0066cc;
+}
+
